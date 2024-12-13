@@ -1,7 +1,7 @@
 // src/lib/api.ts
 
 export const getProductos = async () => {
-  const response = await fetch('http://127.0.0.1:8000/productos');
+  const response = await fetch('https://web-production-4ea6.up.railway.app/productos'); // Cambié a la URL pública de Railway
   if (!response.ok) {
     throw new Error('Error al obtener productos');
   }
@@ -9,7 +9,7 @@ export const getProductos = async () => {
 };
 
 export const getCategorias = async () => {
-  const response = await fetch('http://127.0.0.1:8000/categorias');
+  const response = await fetch('https://web-production-4ea6.up.railway.app/categorias'); // Cambié a la URL pública de Railway
   if (!response.ok) {
     throw new Error('Error al obtener categorías');
   }
