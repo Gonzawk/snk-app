@@ -1,88 +1,83 @@
-// src/app/page.tsx
-
-'use client';
+'use client'; // Asegúrate de tener la directiva 'use client' al principio
 
 import { FC, useEffect, useState } from 'react';
-import { getProductos, getCategorias } from '../lib/api';
 import ProductoCard from '../components/ProductoCard/ProductoCard';
+import { getProductos, getCategorias } from '../lib/api';
 
-const ProductosPage: FC = () => {
-  const [productos, setProductos] = useState<any[]>([]);
-  const [categorias, setCategorias] = useState<any[]>([]);
-  const [categoriaSeleccionada, setCategoriaSeleccionada] = useState<string>('');
-  const [productosFiltrados, setProductosFiltrados] = useState<any[]>([]);
+// Define los tipos adecuados para Producto y Categoria
+interface Producto {
+  id: string;
+  model: string;
+  color: string;
+  img_url: string;
+  category: string;
+}
 
-  // Obtener productos y categorías
+interface Categoria {
+  id: string;
+  category_name: string;
+}
+
+const HomePage: FC = () => {
+  const [productos, setProductos] = useState<Producto[]>([]);
+  const [categorias, setCategorias] = useState<Categoria[]>([]);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [isClient, setIsClient] = useState(false);  // Estado para determinar si estamos en el cliente
+
   useEffect(() => {
+    setIsClient(true);  // Indicar que estamos en el cliente
+
     const fetchData = async () => {
       try {
-        const productosData = await getProductos();
-        setProductos(productosData);
-        const categoriasData = await getCategorias();
-        setCategorias(categoriasData);
+        const fetchedProductos = await getProductos();
+        const fetchedCategorias = await getCategorias();
+        setProductos(fetchedProductos);
+        setCategorias(fetchedCategorias);
       } catch (error) {
-        console.error('Error al obtener datos:', error);
+        console.error('Error al obtener productos o categorías:', error);
+      } finally {
+        setLoading(false);
       }
     };
 
     fetchData();
-  }, []);
+  }, []); // Solo se ejecuta una vez al cargar el componente
 
-  // Filtrar productos por categoría
-  useEffect(() => {
-    if (categoriaSeleccionada) {
-      setProductosFiltrados(
-        productos.filter((producto) => producto.category === categoriaSeleccionada)
-      );
-    } else {
-      setProductosFiltrados(productos); // Si no hay filtro, mostrar todos los productos
-    }
-  }, [categoriaSeleccionada, productos]);
-
-  // Obtener nombre de la categoría
-  const getCategoryName = (categoryId: string) => {
+  // Función para obtener el nombre de la categoría de un producto
+  const getCategoryName = (categoryId: string): string => {
     const category = categorias.find((cat) => cat.id === categoryId);
     return category ? category.category_name : 'Categoría desconocida';
   };
 
+  // Muestra el cargando si la información no está disponible
+  if (loading) {
+    return <div>Cargando...</div>;
+  }
+
+  // Si estamos en el cliente, renderizamos la UI
   return (
     <div className="min-h-screen p-8 bg-black text-white">
-      {/* Título "Catálogo" centrado */}
       <h2 className="text-4xl font-semibold mb-6 text-center text-white">Catálogo</h2>
-
-      {/* Filtro por categoría */}
-      <div className="mb-6 flex justify-center">
-        <div className="flex items-center bg-gray-800 p-3 rounded-md shadow-lg w-full sm:w-auto">
-          <label className="text-lg font-medium mr-4">Filtrar por categoría</label>
-          <select
-            className="p-2 border rounded-md bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
-            onChange={(e) => setCategoriaSeleccionada(e.target.value)}
-            value={categoriaSeleccionada}
-          >
-            <option value="">Todas las categorías</option>
-            {categorias.map((categoria) => (
-              <option key={categoria.id} value={categoria.id}>
-                {categoria.category_name}
-              </option>
+      
+      <div suppressHydrationWarning={true}>
+        {isClient ? (
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            {productos.map((producto) => (
+              <ProductoCard
+                key={producto.id}
+                model={producto.model}
+                color={producto.color}
+                img_url={producto.img_url}
+                category={getCategoryName(producto.category)}
+              />
             ))}
-          </select>
-        </div>
-      </div>
-
-      {/* Contenedor de productos */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {productosFiltrados.map((producto) => (
-          <ProductoCard
-            key={producto.id}
-            model={producto.model}
-            color={producto.color}
-            img_url={producto.img_url}
-            category={getCategoryName(producto.category)}
-          />
-        ))}
+          </div>
+        ) : (
+          <div>Cargando productos...</div>
+        )}
       </div>
     </div>
   );
 };
 
-export default ProductosPage;
+export default HomePage;
