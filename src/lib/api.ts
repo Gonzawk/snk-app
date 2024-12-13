@@ -14,4 +14,4 @@ export const getCategorias = async () => {
     throw new Error('Error al obtener categorías');
   }
   return response.json();
-};
+}; 
