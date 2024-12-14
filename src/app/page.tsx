@@ -98,16 +98,16 @@ const ProductosPage = () => {
   return (
     <div className="productos-container min-h-screen bg-gray-900 text-white flex flex-col">
       {/* Título y logo */}
-      <div className="flex items-center justify-between mb-6 px-4 py-4">
-        <div className="flex items-center space-x-4">
-          <h1 className="text-5xl font-extrabold text-white leading-tight">Catálogo</h1>
-          <img src="/Data/Logoweb.svg" alt="Logo" className="h-16" /> {/* Asegúrate de agregar la ruta correcta a tu logo */}
+      <div className="flex flex-wrap items-center justify-between mb-6 px-4 py-4">
+        <div className="flex items-center space-x-4 w-full sm:w-auto">
+          <h1 className="text-4xl sm:text-5xl font-extrabold text-white leading-tight">Catálogo</h1>
+          <img src="/Data/Logoweb.svg" alt="Logo" className="h-12 sm:h-16" /> {/* Ajusta el tamaño del logo */}
         </div>
 
         {/* Filtro por categoría */}
-        <div className="relative">
+        <div className="relative w-full sm:w-auto mt-4 sm:mt-0">
           <select
-            className="block w-48 p-3 bg-gray-800 text-white border border-gray-600 rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="block w-full sm:w-48 p-3 bg-gray-800 text-white border border-gray-600 rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500"
             onChange={handleCategoryChange}
             value={selectedCategory}
           >
