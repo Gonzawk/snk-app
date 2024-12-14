@@ -4,15 +4,30 @@ import React, { useEffect, useState } from 'react';
 import ProductoCard from '../components/ProductoCard/ProductoCard';  // Asegúrate de tener este archivo correctamente importado
 import { getProductos } from '../lib/api';  // Asegúrate de que la función de API esté bien configurada
 
+// Define el tipo Producto
+interface Producto {
+  model: string;
+  color: string;
+  img_url: string;
+  id?: string;  // Agregamos como opcional
+  categoriaNombre?: string;  // Agregamos como opcional
+}
+
+// Define un nuevo tipo que incluye id y categoriaNombre
+interface ProductoConId extends Producto {
+  id: string;
+  categoriaNombre: string;
+}
+
 const ProductosPage = () => {
-  const [productos, setProductos] = useState<Producto[]>([]);
-  const [productosFiltrados, setProductosFiltrados] = useState<Producto[]>([]);
+  const [productos, setProductos] = useState<ProductoConId[]>([]);
+  const [productosFiltrados, setProductosFiltrados] = useState<ProductoConId[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState<string>('');  // Estado para la categoría seleccionada
   const [categorias, setCategorias] = useState<string[]>([]);  // Estado para almacenar las categorías
 
   // Función para generar un hash único utilizando model, color y un contador
-  const generateHash = (producto: any, index: number) => {
+  const generateHash = (producto: Producto, index: number) => {
     const jsonString = JSON.stringify({ model: producto.model, color: producto.color, index });
     const encoder = new TextEncoder();
     const data = encoder.encode(jsonString);
@@ -25,10 +40,10 @@ const ProductosPage = () => {
       const fetchedProductos = await getProductos();
       console.log(fetchedProductos);
 
-      let indexCounter = 0; // Contador para asegurar que el hash sea único
-      const productosList = Object.entries(fetchedProductos).flatMap(([categoriaNombre, productosCategoria]) =>
+      let indexCounter = 0;
+      const productosList: ProductoConId[] = Object.entries(fetchedProductos).flatMap(([categoriaNombre, productosCategoria]) =>
         productosCategoria.map((producto) => {
-          const productoConId = {
+          const productoConId: ProductoConId = {
             ...producto,
             categoriaNombre,  // Agregamos el nombre de la categoría
             id: `${generateHash(producto, indexCounter)}-${indexCounter}`, // Usamos el hash único generado + contador
