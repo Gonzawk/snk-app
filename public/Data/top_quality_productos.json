@@ -1,0 +1,54 @@
+{
+    "Ojotas Adidas": [
+        {
+            "model": "Ojotas Adidas",
+            "color": "Blanco,Binumeral 36/37 al 44/45 $20.000",
+            "img_url": "https://i.ibb.co/zhnjG91/Ojotas-Adidas.jpg"
+        },
+        {
+            "model": "Ojotas Adidas",
+            "color": "Negro,Binumeral. 36/37 al 44/45 $20.000",
+            "img_url": "https://i.ibb.co/kgNmfm8/Ojotas-Adidas-N.jpg"
+        },
+        {
+            "model": "Ojotas Adilette 22",
+            "color": "Crema,Binumeral. 37/38 al 43/44 $30.000",
+            "img_url": "https://i.ibb.co/wp4jVBJ/Adidas-Adilette-Crema.jpg"
+        },
+        {
+            "model": "Ojotas Adilette 22",
+            "color": "Negro,Binumeral. 37/38 al 43/44 $30.000",
+            "img_url": "https://i.ibb.co/kKkTyhV/Adidas-Adilette-N.jpg"
+        }
+    ],
+    "Adi2000": [
+        {
+            "model": "Adidas Adi2000",
+            "color": "Negro, 38/39/40/42 $65.000",
+            "img_url": "https://i.ibb.co/4jXnVmN/Adi2000N.jpg"
+        },{
+            "model": "Adidas Adi2000",
+            "color": "Negro con verde, 38/39/40/42 $65.000",
+            "img_url": "https://i.ibb.co/cTRZCB5/Adi2000.jpg"
+        }
+    ],
+    "Converse": [
+        {
+            "model": "Converse Botitas Plataforma",
+            "color": "Negro, 36 al 40 $22.000",
+            "img_url": "https://i.ibb.co/JzvjYXL/Converse-Botita-Plataforma-N.jpg"
+        },{
+            "model": "Converse Botitas Plataforma",
+            "color": "Blanco, 35 al 40 $22.000",
+            "img_url": "https://i.ibb.co/t3s5dtc/Converse-Botita-Plataforma-B.jpg"
+        },{
+            "model": "Converse Botitas",
+            "color": "Blanco, 35 al 42 $20.000",
+            "img_url": "https://i.ibb.co/P51h9Ln/Converse-Botita-B.jpg"
+        },{
+            "model": "Converse Botitas",
+            "color": "Negro, 36/39/40/41/42/43 $20.000",
+            "img_url": "https://i.ibb.co/j6L0n5C/Converse-Botita-N.jpg"
+        }
+    ]
+}

@@ -3,41 +3,27 @@
 import React from 'react';
 import Link from 'next/link';
 
-const HomePage = () => {
+const CatalogoPage = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
       {/* Hero Section */}
-      <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
+      <header className="flex flex-col items-center justify-center text-center px-6 py-10 space-y-6">
         <img
           src="/Data/Logoweb.svg"
           alt="Logo"
           className="h-16 sm:h-24"
         />
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-          Bienvenido al Catálogo de Zapatillas
+          Catálogo de Zapatillas
         </h1>
         <p className="text-lg sm:text-xl text-gray-300">
-          Explora nuestros modelos más recientes y encuentra el par perfecto para ti.
+          Explora nuestras categorías para encontrar tus zapatillas ideales. Diseños clasicos y exclusivos, consultanos por tu par preferido!
         </p>
-        <div className="space-x-4">
-          <Link
-            href="/catalogo"
-            className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-md text-lg shadow-lg transition transform hover:scale-105"
-          >
-            Ver Catálogo
-          </Link>
-          <Link
-            href="#contacto"
-            className="px-6 py-3 bg-gray-800 hover:bg-gray-700 text-white rounded-md text-lg shadow-lg transition transform hover:scale-105"
-          >
-            Contáctanos
-          </Link>
-        </div>
       </header>
 
-      {/* Sección de Presentación */}
+      {/* Sección de Categorías */}
       <section className="px-6 py-12 max-w-5xl mx-auto text-center">
-        <h2 className="text-4xl font-bold mb-4">Nuestros Modelos</h2>
+        <h2 className="text-4xl font-bold mb-4">Nuestras Categorías</h2>
         <p className="text-lg text-gray-400 mb-8">
           Descubre nuestras líneas exclusivas: <span className="text-blue-500 font-semibold">G5</span>, <span className="text-green-500 font-semibold">Top Quality</span>, y <span className="text-yellow-500 font-semibold">OG</span>. Cada línea está diseñada para ofrecer comodidad, estilo y rendimiento.
         </p>
@@ -65,41 +51,8 @@ const HomePage = () => {
           </Link>
         </div>
       </section>
-
-      {/* Sección de Contacto */}
-      <footer id="contacto" className="bg-gray-800 py-12">
-        <div className="max-w-5xl mx-auto text-center">
-          <h2 className="text-3xl font-bold text-white mb-4">Contáctanos</h2>
-          <p className="text-gray-400 mb-8">
-            ¿Tienes preguntas? Escríbenos y estaremos encantados de ayudarte.
-          </p>
-          <div className="flex justify-center space-x-4">
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-              <img
-                src="/Data/facebook-icon.svg"
-                alt="Facebook"
-                className="h-10 w-10 hover:scale-110 transform transition"
-              />
-            </a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-              <img
-                src="/Data/instagram-icon.svg"
-                alt="Instagram"
-                className="h-10 w-10 hover:scale-110 transform transition"
-              />
-            </a>
-            <a href="mailto:contacto@zapatillas.com">
-              <img
-                src="/Data/email-icon.svg"
-                alt="Correo"
-                className="h-10 w-10 hover:scale-110 transform transition"
-              />
-            </a>
-          </div>
-        </div>
-      </footer>
     </div>
   );
 };
 
-export default HomePage;
+export default CatalogoPage;
