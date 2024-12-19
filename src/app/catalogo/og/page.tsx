@@ -1,4 +1,4 @@
-'use client';
+/* 'use client';
 
 import React, { useEffect, useState } from 'react';
 import ProductoCard from '../../../components/ProductoCard/ProductoCard';
@@ -57,7 +57,7 @@ const OGPage = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
-      {/* Hero Section */}
+      {/* Hero Section *
       <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
         <img
           src="/Data/Logoweb.svg"
@@ -72,7 +72,7 @@ const OGPage = () => {
         </p>
       </header>
 
-      {/* Filtro de Categorías */}
+      {/* Filtro de Categorías *
       <div className="w-full flex justify-center mb-6 px-4">
         <select
           className="block w-full sm:w-64 p-3 bg-gray-800 text-white border border-gray-600 rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500"
@@ -88,7 +88,7 @@ const OGPage = () => {
         </select>
       </div>
 
-      {/* Productos */}
+      {/* Productos *
       <div className="flex-grow">
         {loading ? (
           <div className="text-center text-xl font-semibold text-gray-300">Cargando productos...</div>
@@ -117,3 +117,4 @@ const OGPage = () => {
 };
 
 export default OGPage;
+ */

@@ -8,11 +8,11 @@ const HomePage = () => {
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
       {/* Hero Section */}
       <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
-        <img
+        {/* <img
           src="/Data/Logoweb.svg"
           alt="Logo"
           className="h-16 sm:h-24"
-        />
+        /> */}
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
           Bienvenido al Catálogo de Zapatillas
         </h1>
@@ -66,7 +66,7 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Sección de Contacto */}
+      {/* {/* Sección de Contacto *
       <footer id="contacto" className="bg-gray-800 py-12">
         <div className="max-w-5xl mx-auto text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Contáctanos</h2>
@@ -97,7 +97,7 @@ const HomePage = () => {
             </a>
           </div>
         </div>
-      </footer>
+      </footer> */}
     </div>
   );
 };

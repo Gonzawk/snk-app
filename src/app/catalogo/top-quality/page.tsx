@@ -93,11 +93,11 @@ const TopQualityPage = () => {
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
       {/* Hero Section */}
       <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
-        <img
+      {/*   <img
           src="/Data/Logoweb.svg"
           alt="Logo"
           className="h-16 sm:h-24"
-        />
+        /> */}
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
           Top Quality - Catálogo de Zapatillas
         </h1>
