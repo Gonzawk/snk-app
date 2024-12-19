@@ -1,8 +1,21 @@
-/* 'use client';
+'use client';
 
 import React, { useEffect, useState } from 'react';
 import ProductoCard from '../../../components/ProductoCard/ProductoCard';
 import { getProductosOG } from '../../../lib/api'; // Asegúrate de que esta función obtenga los datos de OG
+
+interface Producto {
+  model: string;
+  color: string;
+  img_url: string;
+  id?: string;
+  categoriaNombre?: string;
+}
+
+interface ProductoConId extends Producto {
+  id: string;
+  categoriaNombre: string;
+}
 
 const OGPage = () => {
   const [productos, setProductos] = useState<ProductoConId[]>([]);
@@ -11,11 +24,27 @@ const OGPage = () => {
   const [selectedCategory, setSelectedCategory] = useState<string>('');
   const [categorias, setCategorias] = useState<string[]>([]);
 
+  // Genera un hash único para cada producto
+  const generateHash = (producto: Producto, index: number) => {
+    const jsonString = JSON.stringify({ model: producto.model, color: producto.color, index });
+    const encoder = new TextEncoder();
+    const data = encoder.encode(jsonString);
+    return btoa(String.fromCharCode(...data)); // Convierte el hash en base64
+  };
+
   // Función que obtiene los productos y los organiza
   const fetchData = async () => {
     try {
       const fetchedProductos = await getProductosOG(); // Obtener los datos de OG
       console.log(fetchedProductos);
+
+      if (!fetchedProductos || Object.keys(fetchedProductos).length === 0) {
+        // Si no hay productos, maneja el caso sin datos
+        setProductos([]);
+        setProductosFiltrados([]);
+        setCategorias([]);
+        return;
+      }
 
       let indexCounter = 0;
       const productosList: ProductoConId[] = Object.entries(fetchedProductos).flatMap(([categoriaNombre, productosCategoria]) =>
@@ -42,6 +71,19 @@ const OGPage = () => {
     }
   };
 
+  // Filtra los productos según la categoría seleccionada
+  const handleCategoryChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    const category = e.target.value;
+    setSelectedCategory(category);
+
+    if (category) {
+      const filtered = productos.filter((producto) => producto.categoriaNombre === category);
+      setProductosFiltrados(filtered);
+    } else {
+      setProductosFiltrados(productos);
+    }
+  };
+
   useEffect(() => {
     fetchData(); // Llama a la función para obtener los productos cuando el componente se monta
   }, []);
@@ -57,13 +99,13 @@ const OGPage = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
-      {/* Hero Section *
+      {/* Hero Section */}
       <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
-        <img
+      {/*   <img
           src="/Data/Logoweb.svg"
           alt="Logo"
           className="h-16 sm:h-24"
-        />
+        /> */}
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-red-500">
           OG - Catálogo de Zapatillas
         </h1>
@@ -72,23 +114,25 @@ const OGPage = () => {
         </p>
       </header>
 
-      {/* Filtro de Categorías *
-      <div className="w-full flex justify-center mb-6 px-4">
-        <select
-          className="block w-full sm:w-64 p-3 bg-gray-800 text-white border border-gray-600 rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-          onChange={handleCategoryChange}
-          value={selectedCategory}
-        >
-          <option value="">Filtrar por categoría</option>
-          {categorias.map((categoria) => (
-            <option key={categoria} value={categoria}>
-              {categoria}
-            </option>
-          ))}
-        </select>
-      </div>
+      {/* Filtro de Categorías */}
+      {categorias.length > 0 && (
+        <div className="w-full flex justify-center mb-6 px-4">
+          <select
+            className="block w-full sm:w-64 p-3 bg-gray-800 text-white border border-gray-600 rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            onChange={handleCategoryChange}
+            value={selectedCategory}
+          >
+            <option value="">Filtrar por categoría</option>
+            {categorias.map((categoria) => (
+              <option key={categoria} value={categoria}>
+                {categoria}
+              </option>
+            ))}
+          </select>
+        </div>
+      )}
 
-      {/* Productos *
+      {/* Productos */}
       <div className="flex-grow">
         {loading ? (
           <div className="text-center text-xl font-semibold text-gray-300">Cargando productos...</div>
@@ -117,4 +161,3 @@ const OGPage = () => {
 };
 
 export default OGPage;
- */
