@@ -35,7 +35,7 @@ const NavBar = () => {
         >
           <Link href="#inicio" className="hover:text-white transition">Inicio</Link>
           <Link href="#categorias" className="hover:text-white transition">Categorías</Link>
-          <Link href="#nosotros" className="hover:text-white transition">Sobre Nosotros</Link>
+          <Link href="#nosotros" className="hover:text-white transition">Contáctanos</Link>
         </div>
       </div>
     </nav>
