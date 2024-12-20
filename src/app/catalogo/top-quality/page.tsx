@@ -1,13 +1,9 @@
-// Importación de Link de Next.js
-
-
 'use client';
 
 import React, { useEffect, useState } from 'react';
 import ProductoCard from '../../../components/ProductoCard/ProductoCard';
-import { getProductosTopQuality } from '../../../lib/api'; // Asegúrate de que esta función obtenga los datos de Top Quality
-import NavBarCatalogo from '../../../components/NavBarCatalogo'; // Importamos la barra de navegación
-
+import { getProductosTopQuality } from '../../../lib/api';
+import NavBarCatalogo from '../../../components/NavBarCatalogo';
 
 interface Producto {
   model: string;
@@ -29,25 +25,23 @@ const TopQualityPage = () => {
   const [selectedCategory, setSelectedCategory] = useState<string>('');
   const [categorias, setCategorias] = useState<string[]>([]);
 
-  // Genera un hash único para cada producto
   const generateHash = (producto: Producto, index: number) => {
     const jsonString = JSON.stringify({ model: producto.model, color: producto.color, index });
     const encoder = new TextEncoder();
     const data = encoder.encode(jsonString);
-    return btoa(String.fromCharCode(...data)); // Convierte el hash en base64
+    return btoa(String.fromCharCode(...data));
   };
 
-  // Función que obtiene los productos y los organiza
   const fetchData = async () => {
     try {
-      const fetchedProductos = await getProductosTopQuality(); // Obtener los datos de Top Quality
+      const fetchedProductos = await getProductosTopQuality();
       let indexCounter = 0;
       const productosList: ProductoConId[] = Object.entries(fetchedProductos).flatMap(([categoriaNombre, productosCategoria]) =>
         productosCategoria.map((producto) => {
           const productoConId: ProductoConId = {
             ...producto,
             categoriaNombre,
-            id: `${generateHash(producto, indexCounter)}-${indexCounter}`, // Asegura que el ID sea único
+            id: `${generateHash(producto, indexCounter)}-${indexCounter}`,
           };
           indexCounter++;
           return productoConId;
@@ -82,7 +76,7 @@ const TopQualityPage = () => {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
+    <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white pt-15">
       <NavBarCatalogo /> {/* Barra de navegación */}
       <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">

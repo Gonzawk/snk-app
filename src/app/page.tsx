@@ -1,8 +1,12 @@
+// pages/HomePage.tsx
+
 'use client';
 
 import React from 'react';
 import Link from 'next/link';
 import NavBar from '../components/NavBar'; // Importar el NavBar
+import RedesSociales from '../components/RedesSociales'; // Importar el componente RedesSociales
+import Footer from '@/components/Footer';
 
 const HomePage = () => {
   return (
@@ -70,14 +74,18 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Sección Sobre Nosotros */}
+      {/* Sección Sobre Nosotros (Contáctanos) */}
       <section id="nosotros" className="h-screen pt-24 bg-gray-800 px-6 py-12 text-center text-white">
         <h2 className="text-4xl font-bold mb-4">Contáctanos</h2>
         <p className="text-lg text-gray-400 mb-8">
           ¿Tienes preguntas? Escríbenos y estaremos encantados de ayudarte.
         </p>
-        {/* Aquí puedes incluir los iconos de redes sociales y sus enlaces */}
+
+        {/* Agregamos el componente RedesSociales aquí */}
+        <RedesSociales />
       </section>
+
+      <Footer />
     </div>
   );
 };

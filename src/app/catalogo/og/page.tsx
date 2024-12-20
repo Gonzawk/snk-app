@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import ProductoCard from '../../../components/ProductoCard/ProductoCard';
 import { getProductosOG } from '../../../lib/api';
-import NavBarCatalogo from '../../../components/NavBarCatalogo'; // Importamos la nueva barra de navegación
+import NavBarCatalogo from '../../../components/NavBarCatalogo';
 
 interface Producto {
   model: string;
@@ -76,21 +76,10 @@ const OGPage = () => {
     fetchData();
   }, []);
 
-  useEffect(() => {
-    if (selectedCategory) {
-      const filtered = productos.filter((producto) => producto.categoriaNombre === selectedCategory);
-      setProductosFiltrados(filtered);
-    } else {
-      setProductosFiltrados(productos);
-    }
-  }, [selectedCategory, productos]);
-
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
-      {/* Reemplazamos la barra de navegación antigua con el nuevo componente NavBarCatalogo */}
-      <NavBarCatalogo /> 
-
-      <header className="flex flex-col items-center justify-center text-center px-6 py-10 space-y-6">
+    <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white pt-15">
+      <NavBarCatalogo />
+      <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
           Catálogo de Zapatillas OG
         </h1>
@@ -118,7 +107,7 @@ const OGPage = () => {
         {loading ? (
           <div className="text-center text-xl font-semibold text-gray-300">Cargando productos...</div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6 px-4">
             {productosFiltrados.length === 0 ? (
               <div className="col-span-full text-center text-lg font-semibold text-red-500">
                 No hay productos para mostrar

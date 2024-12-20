@@ -86,7 +86,7 @@ const G5Page = () => {
   }, [selectedCategory, productos]);
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
+    <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white pt-20">
       {/* Reemplazamos la barra de navegación antigua con el nuevo componente NavBarCatalogo */}
       <NavBarCatalogo /> 
 
