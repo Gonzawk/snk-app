@@ -1,8 +1,13 @@
+// Importación de Link de Next.js
+
+
 'use client';
 
 import React, { useEffect, useState } from 'react';
 import ProductoCard from '../../../components/ProductoCard/ProductoCard';
 import { getProductosTopQuality } from '../../../lib/api'; // Asegúrate de que esta función obtenga los datos de Top Quality
+import NavBarCatalogo from '../../../components/NavBarCatalogo'; // Importamos la barra de navegación
+
 
 interface Producto {
   model: string;
@@ -36,8 +41,6 @@ const TopQualityPage = () => {
   const fetchData = async () => {
     try {
       const fetchedProductos = await getProductosTopQuality(); // Obtener los datos de Top Quality
-      console.log(fetchedProductos);
-
       let indexCounter = 0;
       const productosList: ProductoConId[] = Object.entries(fetchedProductos).flatMap(([categoriaNombre, productosCategoria]) =>
         productosCategoria.map((producto) => {
@@ -53,7 +56,6 @@ const TopQualityPage = () => {
 
       setProductos(productosList);
       setProductosFiltrados(productosList);
-
       const categoriasList = Object.keys(fetchedProductos);
       setCategorias(categoriasList);
     } catch (error) {
@@ -63,7 +65,6 @@ const TopQualityPage = () => {
     }
   };
 
-  // Filtra los productos según la categoría seleccionada
   const handleCategoryChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const category = e.target.value;
     setSelectedCategory(category);
@@ -77,32 +78,18 @@ const TopQualityPage = () => {
   };
 
   useEffect(() => {
-    fetchData(); // Llama a la función para obtener los productos cuando el componente se monta
+    fetchData();
   }, []);
-
-  useEffect(() => {
-    if (selectedCategory) {
-      const filtered = productos.filter((producto) => producto.categoriaNombre === selectedCategory);
-      setProductosFiltrados(filtered);
-    } else {
-      setProductosFiltrados(productos);
-    }
-  }, [selectedCategory, productos]);
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
-      {/* Hero Section */}
+      <NavBarCatalogo /> {/* Barra de navegación */}
       <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
-      {/*   <img
-          src="/Data/Logoweb.svg"
-          alt="Logo"
-          className="h-16 sm:h-24"
-        /> */}
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
-          Top Quality - Catálogo de Zapatillas
+          Catálogo de Zapatillas Top Quality
         </h1>
         <p className="text-lg sm:text-xl text-gray-300">
-          Explora la línea Top Quality, donde el máximo rendimiento se encuentra con el estilo.
+          Explora la línea Top Quality, y encuentra los mejores diseños al mejor precio!
         </p>
       </header>
 
@@ -135,7 +122,7 @@ const TopQualityPage = () => {
             ) : (
               productosFiltrados.map((producto) => (
                 <ProductoCard
-                  key={producto.id} // Asegúrate de usar un ID único como clave
+                  key={producto.id}
                   model={producto.model}
                   color={producto.color}
                   img_url={producto.img_url}

@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import ProductoCard from '../../../components/ProductoCard/ProductoCard';
 import { getProductos } from '../../../lib/api';
+import NavBarCatalogo from '../../../components/NavBarCatalogo'; // Importamos la nueva barra de navegación
 
 interface Producto {
   model: string;
@@ -17,34 +18,30 @@ interface ProductoConId extends Producto {
   categoriaNombre: string;
 }
 
-const ProductosPage = () => {
+const G5Page = () => {
   const [productos, setProductos] = useState<ProductoConId[]>([]);
   const [productosFiltrados, setProductosFiltrados] = useState<ProductoConId[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState<string>('');
   const [categorias, setCategorias] = useState<string[]>([]);
 
-  // Genera un hash único para cada producto
   const generateHash = (producto: Producto, index: number) => {
     const jsonString = JSON.stringify({ model: producto.model, color: producto.color, index });
     const encoder = new TextEncoder();
     const data = encoder.encode(jsonString);
-    return btoa(String.fromCharCode(...data)); // Convierte el hash en base64
+    return btoa(String.fromCharCode(...data));
   };
 
-  // Función que obtiene los productos y los organiza
   const fetchData = async () => {
     try {
       const fetchedProductos = await getProductos();
-      console.log(fetchedProductos);
-
       let indexCounter = 0;
       const productosList: ProductoConId[] = Object.entries(fetchedProductos).flatMap(([categoriaNombre, productosCategoria]) =>
         productosCategoria.map((producto) => {
           const productoConId: ProductoConId = {
             ...producto,
             categoriaNombre,
-            id: `${generateHash(producto, indexCounter)}-${indexCounter}`, // Asegura que el ID sea único
+            id: `${generateHash(producto, indexCounter)}-${indexCounter}`,
           };
           indexCounter++;
           return productoConId;
@@ -57,13 +54,12 @@ const ProductosPage = () => {
       const categoriasList = Object.keys(fetchedProductos);
       setCategorias(categoriasList);
     } catch (error) {
-      console.error('Error al obtener los productos:', error);
+      console.error('Error al obtener los productos de G5:', error);
     } finally {
       setLoading(false);
     }
   };
 
-  // Filtra los productos según la categoría seleccionada
   const handleCategoryChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const category = e.target.value;
     setSelectedCategory(category);
@@ -77,7 +73,7 @@ const ProductosPage = () => {
   };
 
   useEffect(() => {
-    fetchData(); // Llama a la función para obtener los productos cuando el componente se monta
+    fetchData();
   }, []);
 
   useEffect(() => {
@@ -91,22 +87,18 @@ const ProductosPage = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
-      {/* Hero Section */}
-      <header className="flex flex-col items-center justify-center text-center px-6 py-20 space-y-6">
-        <img
-          src="/Data/Logoweb.svg"
-          alt="Logo"
-          className="h-16 sm:h-24"
-        />
-        <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-          Catálogo de Productos
+      {/* Reemplazamos la barra de navegación antigua con el nuevo componente NavBarCatalogo */}
+      <NavBarCatalogo /> 
+
+      <header className="flex flex-col items-center justify-center text-center px-6 py-10 space-y-6">
+        <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
+          Catálogo de Zapatillas G5
         </h1>
         <p className="text-lg sm:text-xl text-gray-300">
-          Explora nuestros productos y encuentra lo que más te guste.
+          Explora la linea G5, y descubre pares exclusivos al mejor precio!
         </p>
       </header>
 
-      {/* Filtro de Categorías */}
       <div className="w-full flex justify-center mb-6 px-4">
         <select
           className="block w-full sm:w-64 p-3 bg-gray-800 text-white border border-gray-600 rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500"
@@ -122,12 +114,11 @@ const ProductosPage = () => {
         </select>
       </div>
 
-      {/* Productos */}
-      <div className="flex-grow">
+      <div className="w-full px-4">
         {loading ? (
           <div className="text-center text-xl font-semibold text-gray-300">Cargando productos...</div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6 px-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
             {productosFiltrados.length === 0 ? (
               <div className="col-span-full text-center text-lg font-semibold text-red-500">
                 No hay productos para mostrar
@@ -135,7 +126,7 @@ const ProductosPage = () => {
             ) : (
               productosFiltrados.map((producto) => (
                 <ProductoCard
-                  key={producto.id} // Asegúrate de usar un ID único como clave
+                  key={producto.id}
                   model={producto.model}
                   color={producto.color}
                   img_url={producto.img_url}
@@ -150,4 +141,4 @@ const ProductosPage = () => {
   );
 };
 
-export default ProductosPage;
+export default G5Page;
