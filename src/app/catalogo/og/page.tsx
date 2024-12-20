@@ -84,7 +84,7 @@ const OGPage = () => {
           Catálogo de Zapatillas OG
         </h1>
         <p className="text-lg sm:text-xl text-gray-300">
-          Explora la colección OG con lo mejor en sneakers históricos y modernos.
+          Explora la linea OG con lo mejor de sneakers 100% originales!
         </p>
       </header>
 

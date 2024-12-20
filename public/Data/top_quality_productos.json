@@ -1,5 +1,5 @@
 {
-    "Ojotas Adidas": [
+    "Adidas": [
         {
             "model": "Ojotas Adidas",
             "color": "Blanco,Binumeral 36/37 al 44/45 $20.000",
@@ -19,10 +19,7 @@
             "model": "Ojotas Adilette 22",
             "color": "Negro,Binumeral. 37/38 al 43/44 $30.000",
             "img_url": "https://i.ibb.co/kKkTyhV/Adidas-Adilette-N.jpg"
-        }
-    ],
-    "Adi2000": [
-        {
+        }, {
             "model": "Adidas Adi2000",
             "color": "Negro, 38/39/40/42 $65.000",
             "img_url": "https://i.ibb.co/4jXnVmN/Adi2000N.jpg"
@@ -30,6 +27,18 @@
             "model": "Adidas Adi2000",
             "color": "Negro con verde, 38/39/40/42 $65.000",
             "img_url": "https://i.ibb.co/cTRZCB5/Adi2000.jpg"
+        },{
+            "model": "Adidas Nizza",
+            "color": "Animal Print, 35 al 40 $36.000",
+            "img_url": "https://i.ibb.co/cbCGKPC/Adidas-Nizza-Animal-Print.jpg"
+        },{
+            "model": "Adidas Nizza",
+            "color": "Blanco, 35 al 40 $36.000",
+            "img_url": "https://i.ibb.co/7KszfVC/Adidas-Nizza-Blancas.jpg"
+        },{
+            "model": "Adidas Nizza",
+            "color": "Negro, 35 al 39  $36.000",
+            "img_url": "https://i.ibb.co/CVz9NRk/Adidas-Nizza-Negro-Lona.jpg"
         }
     ],
     "Converse": [
@@ -49,6 +58,145 @@
             "model": "Converse Botitas",
             "color": "Negro, 36/39/40/41/42/43 $20.000",
             "img_url": "https://i.ibb.co/j6L0n5C/Converse-Botita-N.jpg"
+        },{
+            "model": "Converse Plataforma",
+            "color": "Blanco, 36/40/41/42/43 $18.000",
+            "img_url": "https://i.ibb.co/bvvYKXm/Converse-Clasicas.jpg"
+        },{
+            "model": "Converse Plataforma",
+            "color": "Negro, 36/39/40/42 $18.000",
+            "img_url": "https://i.ibb.co/3mks4hB/Converse-Clasicas-N.jpg"
+        },{
+            "model": "Converse Clasicas",
+            "color": "Blanco, 36/40/41/42/43 $18.000",
+            "img_url": "https://i.ibb.co/xYzwSX4/Converse-Clasicas-Blancas.jpg"
+        },{
+            "model": "Converse Clasicas",
+            "color": "Beige, 35/40/41 $18.000",
+            "img_url": "https://i.ibb.co/Cw1RTVB/Converse-Clasicas-Marron.jpg"
+        }
+    ],
+    "47 Street": [
+        {
+            "model": "Zapatilla ROCK",
+            "color": "Negro, 36 al 42 $60.000",
+            "img_url": "https://i.ibb.co/4RCy8CL/47street-N.jpg"
+        },{
+            "model": "Zapatilla ROCK",
+            "color": "Blanco, 35 al 43 $60.000",
+            "img_url": "https://i.ibb.co/yXLcLP3/47street-B.jpg"
+        }
+    ],
+    "Lacoste": [
+        {
+            "model": "Lacoste",
+            "color": "Blanco y Azul, 38/39/40/41/43 $40.000",
+            "img_url": "https://i.ibb.co/0j4p1V6/Lacoste-Blanco-Azul.jpg"
+        },{
+            "model": "Lacoste",
+            "color": "Blanco y Gris, 38/39/40/41/42/43 $40.000",
+            "img_url": "https://i.ibb.co/fXm56B8/Lacoste-Blanco-Gris.jpg"
+        },{
+            "model": "Lacoste",
+            "color": "Negro, 38/39 $40.000",
+            "img_url": "https://i.ibb.co/3rPnq2T/Lacoste-Black.jpg"
+        }
+    ],
+    "Nike": [
+        {
+            "model": "Nike Air Force 1",
+            "color": "Negro, 34/35/36/37  $48.000",
+            "img_url": "https://i.ibb.co/Sc53m0z/NIKEAF1-Cost.jpg"
+        },{
+            "model": "Nike Air Force 1 Hungria",
+            "color": "Marron, 38 al 42  $48.000",
+            "img_url": "https://i.ibb.co/NpvCDx8/Nike-AF1-Hungria-Marron.jpg"
+        },{
+            "model": "Nike Air Force 1 Hungria LV2",
+            "color": "Negro, 35 al 37  $48.000",
+            "img_url": "https://i.ibb.co/9Wxpyh8/Nike-AF1-Hungria-N.jpg"
+        },{
+            "model": "Nike Air Max TN",
+            "color": "Blanco, 40/41/42  $40.000",
+            "img_url": "https://i.ibb.co/XSDKNvP/Nike-Airmax-TNB.jpg"
+        },{
+            "model": "Nike Air Max TN",
+            "color": "Negro, 38/39/40/41/42  $40.000",
+            "img_url": "https://i.ibb.co/dPw7hp9/Nike-Airmax-TNBN.jpg"
+        },{
+            "model": "Nike Jordan Retro 4",
+            "color": "Negro y Blanco, 38 al 43  $50.000",
+            "img_url": "https://i.ibb.co/QY9J8Q0/Nike-Jordan-Retro4.jpg"
+        },{
+            "model": "Nike Jordan Retro 4",
+            "color": "Negro y Celeste, 38 al 43  $50.000",
+            "img_url": "https://i.ibb.co/mcQbyCZ/Nike-Jordan-Retro2.jpg"
+        },{
+            "model": "Ojotas Nike",
+            "color": "Negro,Binumeral 37/38 al 43/44  $15.000",
+            "img_url": "https://i.ibb.co/4Rd0mWZ/Nike-Ojotas-Negras.jpg"
+        },{
+            "model": "Ojotas Nike",
+            "color": "Azul,Binumeral 37/38 al 43/44  $15.000",
+            "img_url": "https://i.ibb.co/syXKcPR/Nike-Ojotas-Azul.jpg"
+        },{
+            "model": "Ojotas Nike",
+            "color": "Rojo,Binumeral 37/38 al 43/44  $15.000",
+            "img_url": "https://i.ibb.co/fXDzNPG/Nike-Ojotas-Rojas.jpg"
+        },{
+            "model": "Nike SB Dunk Low 3650",
+            "color": "Beige, 34/35/37/39  $55.000",
+            "img_url": "https://i.ibb.co/hFXmkxX/Nike-SBDunk-Low3650-Beige.jpg"
+        },{
+            "model": "Nike SB Dunk Low 3650",
+            "color": "Blanco y Negro, 36/37/38/39  $55.000",
+            "img_url": "https://i.ibb.co/ZNLS3K7/Nike-SBDunk-Low3650-Blanco-Negro.jpg"
+        },{
+            "model": "Nike SB Dunk Low 3650",
+            "color": "Marron, 34 al 41  $55.000",
+            "img_url": "https://i.ibb.co/QQbDM56/Nike-SBDunk-Low3650-Marron.jpg"
+        },{
+            "model": "Nike SB Dunk Low 3650",
+            "color": "Negro, 38/39/40/41/42  $55.000",
+            "img_url": "https://i.ibb.co/zxbS0n6/Nike-SBDunk-Low3650-N.jpg"
+        },{
+            "model": "Nike SB Dunk",
+            "color": "Marron, 34 al 41  $48.000",
+            "img_url": "https://i.ibb.co/nDXnvQ0/Nike-SBDunk-M.jpg"
+        },{
+            "model": "Nike SB Dunk",
+            "color": "Blanca y Negro, 38 al 43  $48.000",
+            "img_url": "https://i.ibb.co/QFrjR2z/Nike-SBDunk-N.jpg"
+        }
+    ],
+    "Puma": [
+        {
+            "model": "Puma Palermo",
+            "color": "Beige, 34/35/36/38  $38.000",
+            "img_url": "https://i.ibb.co/Sy1dm9X/Puma-Palermo-Beige.jpg"
+        },{
+            "model": "Puma Palermo",
+            "color": "Negro, 34/36/37  $38.000",
+            "img_url": "https://i.ibb.co/DgLTyX3/Puma-Palermo-N.jpg"
+        },{
+            "model": "Puma Suede",
+            "color": "Negro, 35/36/37  $38.000",
+            "img_url": "https://i.ibb.co/52jYRk1/Puma-Suede.jpg"
+        }
+    ],
+    "Vans": [
+        {
+            "model": "Vans KNU",
+            "color": "Full Negro, 34 al 39  $52.000",
+            "img_url": "https://i.ibb.co/HgJfNCQ/Vans-KNUBlack.jpg"
+        },{
+            "model": "Vans KNU",
+            "color": "Clasicas, 34/35/36/37/38 al 41 $52.000",
+            "img_url": "https://i.ibb.co/5W6SX1C/Vans-KNUClasicas.jpg"
+        },{
+            "model": "Vans KNU",
+            "color": "Negro linea Blanco, 39/40/42  $52.000",
+            "img_url": "https://i.ibb.co/xHdnpQ8/Vans-KNUBlacklb.jpg"
         }
     ]
 }

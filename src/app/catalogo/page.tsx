@@ -48,7 +48,7 @@ const CatalogoPage = () => {
               className="bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl hover:scale-105 transform transition text-center"
             >
               <h3 className="text-2xl font-semibold mb-2 text-yellow-500">OG</h3>
-              <p className="text-gray-300">Las Originales son los modelos 100% auténticos. Con la garantía de calidad y los mejores diseños del mercado. Estas zapatillas se envían en las primeras 24 horas después de realizar tu compra. ¡La opción perfecta para los verdaderos fanáticos de las marcas!</p>
+              <p className="text-gray-300">Las OG son los modelos 100% auténticos. Con la garantía de calidad y los mejores diseños del mercado. Estas zapatillas se envían en las primeras 24 horas después de realizar tu compra. Se entregan con su correspondiente ticket de compra. ¡La opción perfecta para los verdaderos fanáticos de las marcas! </p>
             </Link>
           </div>
         </section>

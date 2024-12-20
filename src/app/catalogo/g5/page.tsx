@@ -95,7 +95,7 @@ const G5Page = () => {
           Catálogo de Zapatillas G5
         </h1>
         <p className="text-lg sm:text-xl text-gray-300">
-          Explora la linea G5, y descubre pares exclusivos al mejor precio!
+          Explora la linea G5, y descubri pares clasicos, exclusivos y modernos al mejor precio!
         </p>
       </header>
 

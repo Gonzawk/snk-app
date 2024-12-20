@@ -55,21 +55,21 @@ const HomePage = () => {
             className="bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl hover:scale-105 transform transition text-center"
           >
             <h3 className="text-2xl font-semibold mb-2 text-blue-500">G5</h3>
-            <p className="text-gray-300">Innovación y estilo para el día a día.</p>
+            <p className="text-gray-300">Pares Clasicos, Exclusivos y Modernos, de la mejor calidad!</p>
           </Link>
           <Link
             href="/catalogo/top-quality"
             className="bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl hover:scale-105 transform transition text-center"
           >
             <h3 className="text-2xl font-semibold mb-2 text-green-500">Top Quality</h3>
-            <p className="text-gray-300">Zapatillas de buena calidad y con diseños modernos.</p>
+            <p className="text-gray-300">Pares de buena calidad y con diseños modernos.</p>
           </Link>
           <Link
             href="/catalogo/og"
             className="bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl hover:scale-105 transform transition text-center"
           >
             <h3 className="text-2xl font-semibold mb-2 text-yellow-500">OG</h3>
-            <p className="text-gray-300">Modelos 100% auténticos para los verdaderos fanáticos.</p>
+            <p className="text-gray-300">Pares clasicos y exclusivos 100% Originales para los verdaderos fanáticos.</p>
           </Link>
         </div>
       </section>
