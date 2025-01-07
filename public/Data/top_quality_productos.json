@@ -141,15 +141,15 @@
             "img_url": "https://i.ibb.co/3rPnq2T/Lacoste-Black.jpg"
         },{
             "model": "Lacoste Gomon",
-            "color": "Beige,Binumeral 37/38 39/40 43/44 $40.000",
+            "color": "Beige,Binumeral 37/38 al 43/44 $40.000",
             "img_url": "https://i.ibb.co/LSTZM2w/Gomon-Lacoste-Marron.jpg"
         },{
             "model": "Lacoste Chinela",
-            "color": "Negro,Binumeral 38/39 al 42/43 $40.000",
+            "color": "Negro,Binumeral 37/38 al 43/44 $40.000",
             "img_url": "https://i.ibb.co/LZ1kM1f/Ojotas-Lacoste.jpg"
         },{
             "model": "Lacoste Gomon",
-            "color": "Negro,Binumeral 37/38 39/40 41/42 43/44 $40.000",
+            "color": "Negro,Binumeral 37/38 al 43/44 $40.000",
             "img_url": "https://i.ibb.co/wrszJFV/Gomon-Lacoste-Negro.jpg"
         }
     ],
@@ -237,6 +237,25 @@
             "model": "Puma Suede",
             "color": "Negro, 35/36/37  $38.000",
             "img_url": "https://i.ibb.co/52jYRk1/Puma-Suede.jpg"
+        }
+    ],
+    "New Balance": [
+        {
+            "model": "New Balance 9060",
+            "color": "Beige, 39 al 43  $55.000",
+            "img_url": "https://i.ibb.co/RNpgRxd/New-Balance9060-Beige.jpg"
+        },{
+            "model": "New Balance 9060",
+            "color": "Full Negro, 39  $55.000",
+            "img_url": "https://i.ibb.co/ZgLCg1Q/New-Balance9060-Full-Negro.jpg"
+        },{
+            "model": "New Balance 9060",
+            "color": "Negro, 38 al 43  $55.000",
+            "img_url": "https://i.ibb.co/C900PZ6/New-Balance9060-Negro.jpg"
+        },{
+            "model": "New Balance 9060",
+            "color": "Blanco, 34/43  $55.000",
+            "img_url": "https://i.ibb.co/MBRZ5dL/New-Balance9060-Blanco.jpg"
         }
     ],
     "Vans": [
