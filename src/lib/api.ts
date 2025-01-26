@@ -13,7 +13,7 @@ interface Categoria {
 
 // Función para obtener los productos desde el JSON para todos los productos
 export const getProductos = async (): Promise<Record<string, Producto[]>> => {
-  const response = await fetch('/Data/todos_productos.json'); // Ruta pública al JSON de todos los productos
+  const response = await fetch('public\Data\todos_productos.json'); // Ruta pública al JSON de todos los productos  
   if (!response.ok) {
     throw new Error('Error al obtener productos desde el JSON');
   }
