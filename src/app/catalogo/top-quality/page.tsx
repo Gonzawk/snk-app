@@ -85,6 +85,9 @@ const TopQualityPage = () => {
         <p className="text-lg sm:text-xl text-gray-300">
           Explora la línea Top Quality, y encuentra los mejores diseños al mejor precio!
         </p>
+        <p className="text-lg sm:text-xl text-gray-300 font-bold text-yellow-400">
+        ¡PRECIOS EN EFECTIVO O TRANSFERENCIA!
+        </p>
       </header>
 
       {/* Filtro de Categorías */}

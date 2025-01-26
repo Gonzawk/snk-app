@@ -11,6 +11,11 @@
             "img_url": "https://i.ibb.co/kgNmfm8/Ojotas-Adidas-N.jpg"
         },
         {
+            "model": "Ojotas Adidas",
+            "color": "Crema,Binumeral. 36/37 38/39 $20.000",
+            "img_url": "https://i.ibb.co/sJ8vS61/Adidas-Chinela-Doradas.jpg"
+        },
+        {
             "model": "Ojotas Adilette 22",
             "color": "Crema,Binumeral. 37/38 al 43/44 $30.000",
             "img_url": "https://i.ibb.co/wp4jVBJ/Adidas-Adilette-Crema.jpg"
@@ -19,6 +24,16 @@
             "model": "Ojotas Adilette 22",
             "color": "Negro,Binumeral. 37/38 al 43/44 $30.000",
             "img_url": "https://i.ibb.co/kKkTyhV/Adidas-Adilette-N.jpg"
+        },
+        {
+            "model": "Ojotas Adilette 22",
+            "color": "Fucsia,Binumeral. 35/36 39/40 $30.000",
+            "img_url": "https://i.ibb.co/m5sN3fQ/Adidas-Addilete-Rosada.jpg"
+        },
+        {
+            "model": "Ojotas Adilette 22",
+            "color": "Azul,Binumeral. 35/36 $30.000",
+            "img_url": "https://i.ibb.co/m91vzJC/Adidas-Addilete-Azul.jpg"
         }, {
             "model": "Adidas Adi2000",
             "color": "Negro, 38/39/40/42 $65.000",
@@ -39,6 +54,30 @@
             "model": "Adidas Nizza",
             "color": "Negro, 35 al 39  $36.000",
             "img_url": "https://i.ibb.co/CVz9NRk/Adidas-Nizza-Negro-Lona.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Celeste, 35   $65.000",
+            "img_url": "https://i.ibb.co/2Sy6J8c/Adidas-Bad-Bunny-Celeste.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Negro, 35/36/39   $65.000",
+            "img_url": "https://i.ibb.co/HFpdd00/Adidas-Bad-Bunny-Negras.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Gris, 35/36/37/39/40/41   $65.000",
+            "img_url": "https://i.ibb.co/BVk2HVj/Adidas-Bad-Bunny-Gris.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Marron, 35/36/39/40/41   $65.000",
+            "img_url": "https://i.ibb.co/n68Cs1k/Adidas-Badbunny-Marron.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Blanco, 35/36/38/39/40/42/43   $65.000",
+            "img_url": "https://i.ibb.co/P96Nx52/Adidas-Bad-Bunny-Blanco.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Rosada, 35/37/38/39/40/41   $65.000",
+            "img_url": "https://i.ibb.co/59WKg71/Adidas-Bad-Bunny-Rosada.jpg"
         }
     ],
     "Converse": [
@@ -79,11 +118,11 @@
     "47 Street": [
         {
             "model": "Zapatilla ROCK",
-            "color": "Negro, 36 al 42 $60.000",
+            "color": "Negro, 35 al 43 $60.000",
             "img_url": "https://i.ibb.co/4RCy8CL/47street-N.jpg"
         },{
             "model": "Zapatilla ROCK",
-            "color": "Blanco, 35 al 43 $60.000",
+            "color": "Blanco, 34/37/38/39/40/41/43 $60.000",
             "img_url": "https://i.ibb.co/yXLcLP3/47street-B.jpg"
         }
     ],
@@ -100,6 +139,18 @@
             "model": "Lacoste",
             "color": "Negro, 38/39 $40.000",
             "img_url": "https://i.ibb.co/3rPnq2T/Lacoste-Black.jpg"
+        },{
+            "model": "Lacoste Gomon",
+            "color": "Beige,Binumeral 37/38 al 43/44 $40.000",
+            "img_url": "https://i.ibb.co/LSTZM2w/Gomon-Lacoste-Marron.jpg"
+        },{
+            "model": "Lacoste Chinela",
+            "color": "Negro,Binumeral 37/38 al 43/44 $40.000",
+            "img_url": "https://i.ibb.co/LZ1kM1f/Ojotas-Lacoste.jpg"
+        },{
+            "model": "Lacoste Gomon",
+            "color": "Negro,Binumeral 37/38 al 43/44 $40.000",
+            "img_url": "https://i.ibb.co/wrszJFV/Gomon-Lacoste-Negro.jpg"
         }
     ],
     "Nike": [
@@ -121,7 +172,7 @@
             "img_url": "https://i.ibb.co/XSDKNvP/Nike-Airmax-TNB.jpg"
         },{
             "model": "Nike Air Max TN",
-            "color": "Negro, 38/39/40/41/42  $40.000",
+            "color": "Negro, 39/41  $40.000",
             "img_url": "https://i.ibb.co/dPw7hp9/Nike-Airmax-TNBN.jpg"
         },{
             "model": "Nike Jordan Retro 4",
@@ -167,6 +218,10 @@
             "model": "Nike SB Dunk",
             "color": "Blanca y Negro, 38 al 43  $48.000",
             "img_url": "https://i.ibb.co/QFrjR2z/Nike-SBDunk-N.jpg"
+        },{
+            "model": "Nike Air Max 97",
+            "color": "Blanco, 38 al 43  $42.000",
+            "img_url": "https://i.ibb.co/0fxJQNw/Nike-Air-Max97-Blancas.jpg"
         }
     ],
     "Puma": [
@@ -184,6 +239,25 @@
             "img_url": "https://i.ibb.co/52jYRk1/Puma-Suede.jpg"
         }
     ],
+    "New Balance": [
+        {
+            "model": "New Balance 9060",
+            "color": "Beige, 39 al 43  $55.000",
+            "img_url": "https://i.ibb.co/RNpgRxd/New-Balance9060-Beige.jpg"
+        },{
+            "model": "New Balance 9060",
+            "color": "Full Negro, 39  $55.000",
+            "img_url": "https://i.ibb.co/ZgLCg1Q/New-Balance9060-Full-Negro.jpg"
+        },{
+            "model": "New Balance 9060",
+            "color": "Negro, 38 al 43  $55.000",
+            "img_url": "https://i.ibb.co/C900PZ6/New-Balance9060-Negro.jpg"
+        },{
+            "model": "New Balance 9060",
+            "color": "Blanco, 34/43  $55.000",
+            "img_url": "https://i.ibb.co/MBRZ5dL/New-Balance9060-Blanco.jpg"
+        }
+    ],
     "Vans": [
         {
             "model": "Vans KNU",
@@ -197,6 +271,39 @@
             "model": "Vans KNU",
             "color": "Negro linea Blanco, 39/40/42  $52.000",
             "img_url": "https://i.ibb.co/xHdnpQ8/Vans-KNUBlacklb.jpg"
+        },{
+            "model": "Vans KNU",
+            "color": "Negro con Blanco, 38 al 43  $52.000",
+            "img_url": "https://i.ibb.co/Yh28Zmq/Vans-Knu-Cuadriculadas.jpg"
+        }
+    ],
+    "Boss": [
+        {
+            "model": "Hugo Boss Ojotas",
+            "color": "Negro,Binumeral 36/37 al 42/43  $21.000",
+            "img_url": "https://i.ibb.co/10xyYHZ/Ojotas-Boss.jpg"
+        }
+    ],
+    "LV": [
+        {
+            "model": "LV Chinela",
+            "color": "Negro,Binumeral 38/39 al 42/43  $20.000",
+            "img_url": "https://i.ibb.co/2jCvyLJ/Ojotas-Luis-Vuitton.jpg"
+        }
+    ],
+    "Crocs": [
+        {
+            "model": "Crocs",
+            "color": "Gris,Binumeral 34/35 36/37  $21.000",
+            "img_url": "https://i.ibb.co/9nWcBVD/Crocs-Gris.jpg"
+        },{
+            "model": "Crocs",
+            "color": "Negro,Binumeral 42/43  $21.000",
+            "img_url": "https://i.ibb.co/XxvvLQf/Crosc-Blanco-Negro.jpg"
+        },{
+            "model": "Crocs",
+            "color": "Blanco,Binumeral 40/41  $21.000",
+            "img_url": "https://i.ibb.co/zJq28D5/Crocs-Blanco.jpg"
         }
     ]
 }

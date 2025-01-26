@@ -86,6 +86,9 @@ const OGPage = () => {
         <p className="text-lg sm:text-xl text-gray-300">
           Explora la linea OG con lo mejor de sneakers 100% originales!
         </p>
+        <p className="text-lg sm:text-xl text-gray-300 font-bold text-yellow-400">
+        ¡PRECIOS EN EFECTIVO O TRANSFERENCIA!
+        </p>
       </header>
 
       <div className="w-full flex justify-center mb-6 px-4">
