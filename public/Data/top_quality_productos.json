@@ -1,8 +1,29 @@
 {
     "Adidas": [
         {
+            "model": "Adidas Bad Bunny",
+            "color": "Blanco, 35/36/39/40/41  $65.000",
+            "img_url": "https://i.ibb.co/P96Nx52/Adidas-Bad-Bunny-Blanco.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Marron, 35/36/37/38/39/40  $65.000",
+            "img_url": "https://i.ibb.co/n68Cs1k/Adidas-Badbunny-Marron.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Gris, 35/36/37/39/40/41  $65.000",
+            "img_url": "https://i.ibb.co/BVk2HVj/Adidas-Bad-Bunny-Gris.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Rosado, 35/36/38/39/40/41  $65.000",
+            "img_url": "https://i.ibb.co/59WKg71/Adidas-Bad-Bunny-Rosada.jpg"
+        },{
+            "model": "Adidas Bad Bunny",
+            "color": "Negro, 35/36/37/38/39/40/41  $65.000",
+            "img_url": "https://i.ibb.co/HFpdd00/Adidas-Bad-Bunny-Negras.jpg"
+        },
+        {
             "model": "Ojotas Adidas",
-            "color": "Blanco,Binumeral 36/37 al 44/45 $20.000",
+            "color": "Blanco,Binumeral SIN STOCK $20.000",
             "img_url": "https://i.ibb.co/zhnjG91/Ojotas-Adidas.jpg"
         },
         {
@@ -12,12 +33,12 @@
         },
         {
             "model": "Ojotas Adilette 22",
-            "color": "Crema,Binumeral. 37/38 al 43/44 $30.000",
+            "color": "Crema,Binumeral. 39/40 41/42 $30.000",
             "img_url": "https://i.ibb.co/wp4jVBJ/Adidas-Adilette-Crema.jpg"
         },
         {
             "model": "Ojotas Adilette 22",
-            "color": "Negro,Binumeral. 37/38 al 43/44 $30.000",
+            "color": "Negro,Binumeral. 43/44 $30.000",
             "img_url": "https://i.ibb.co/kKkTyhV/Adidas-Adilette-N.jpg"
         }, {
             "model": "Adidas Adi2000",
@@ -27,6 +48,10 @@
             "model": "Adidas Adi2000",
             "color": "Negro con verde, 38/39/40/42 $65.000",
             "img_url": "https://i.ibb.co/cTRZCB5/Adi2000.jpg"
+        },{
+            "model": "Adidas Campus Bad Bunny",
+            "color": "Negro, 34 al 41 $60.000",
+            "img_url": "https://i.ibb.co/39nw51h2/Whats-App-Image-2025-02-03-at-19-40-44.jpg"
         },{
             "model": "Adidas Nizza",
             "color": "Animal Print, 35 al 40 $36.000",
@@ -90,15 +115,15 @@
     "Lacoste": [
         {
             "model": "Lacoste",
-            "color": "Blanco y Azul, 38/39/40/41/43 $40.000",
+            "color": "Blanco y Azul, 38/39/40/43 $35.000",
             "img_url": "https://i.ibb.co/0j4p1V6/Lacoste-Blanco-Azul.jpg"
         },{
             "model": "Lacoste",
-            "color": "Blanco y Gris, 38/39/40/41/42/43 $40.000",
+            "color": "Blanco y Gris, 38/40/41/42/43 $35.000",
             "img_url": "https://i.ibb.co/fXm56B8/Lacoste-Blanco-Gris.jpg"
         },{
             "model": "Lacoste",
-            "color": "Negro, 38/39 $40.000",
+            "color": "Negro, 38/39/40/41 $35.000",
             "img_url": "https://i.ibb.co/3rPnq2T/Lacoste-Black.jpg"
         }
     ],
@@ -111,6 +136,10 @@
             "model": "Nike Air Force 1 Hungria",
             "color": "Marron, 38 al 42  $48.000",
             "img_url": "https://i.ibb.co/NpvCDx8/Nike-AF1-Hungria-Marron.jpg"
+        },{
+            "model": "Nike Air Force 1",
+            "color": "Blanco, 37/38/43  $35.000",
+            "img_url": "https://i.ibb.co/MRrR2jk/NikeAF1B.jpg"
         },{
             "model": "Nike Air Force 1 Hungria LV2",
             "color": "Negro, 35 al 37  $48.000",
@@ -145,11 +174,11 @@
             "img_url": "https://i.ibb.co/fXDzNPG/Nike-Ojotas-Rojas.jpg"
         },{
             "model": "Nike SB Dunk Low 3650",
-            "color": "Beige, 34/35/37/39  $55.000",
+            "color": "Beige, /35/37/38/39/40/41  $55.000",
             "img_url": "https://i.ibb.co/hFXmkxX/Nike-SBDunk-Low3650-Beige.jpg"
         },{
             "model": "Nike SB Dunk Low 3650",
-            "color": "Blanco y Negro, 36/37/38/39  $55.000",
+            "color": "Blanco y Negro, 35/36/37/38/39  $55.000",
             "img_url": "https://i.ibb.co/ZNLS3K7/Nike-SBDunk-Low3650-Blanco-Negro.jpg"
         },{
             "model": "Nike SB Dunk Low 3650",
@@ -157,7 +186,7 @@
             "img_url": "https://i.ibb.co/QQbDM56/Nike-SBDunk-Low3650-Marron.jpg"
         },{
             "model": "Nike SB Dunk Low 3650",
-            "color": "Negro, 38/39/40/41/42  $55.000",
+            "color": "Negro, 38 al 43  $55.000",
             "img_url": "https://i.ibb.co/zxbS0n6/Nike-SBDunk-Low3650-N.jpg"
         },{
             "model": "Nike SB Dunk",
@@ -172,16 +201,24 @@
     "Puma": [
         {
             "model": "Puma Palermo",
-            "color": "Beige, 34/35/36/38  $38.000",
+            "color": "Beige, SIN STOCK  $38.000",
             "img_url": "https://i.ibb.co/Sy1dm9X/Puma-Palermo-Beige.jpg"
         },{
             "model": "Puma Palermo",
-            "color": "Negro, 34/36/37  $38.000",
+            "color": "Negro, 36/38  $38.000",
             "img_url": "https://i.ibb.co/DgLTyX3/Puma-Palermo-N.jpg"
         },{
-            "model": "Puma Suede",
-            "color": "Negro, 35/36/37  $38.000",
+            "model": "Puma Suede XL",
+            "color": "Negro, 34 al 39  $55.000",
             "img_url": "https://i.ibb.co/52jYRk1/Puma-Suede.jpg"
+        },{
+            "model": "Puma Suede XL",
+            "color": "Azul, 40/41/42  $55.000",
+            "img_url": "https://i.ibb.co/f0dTwcs/Puma-Suede-Azul.jpg"
+        },{
+            "model": "Puma Suede XL",
+            "color": "Beige, 34/35/36/38/40/41/43  $55.000",
+            "img_url": "https://i.ibb.co/JFShyvg/Puma-Suede-Marron.jpg"
         }
     ],
     "Vans": [
@@ -197,6 +234,20 @@
             "model": "Vans KNU",
             "color": "Negro linea Blanco, 39/40/42  $52.000",
             "img_url": "https://i.ibb.co/xHdnpQ8/Vans-KNUBlacklb.jpg"
+        }
+    ],"New Balance": [
+        {
+            "model": "New balance 9060",
+            "color": "Negro, 34/38 al 43  $54.000",
+            "img_url": "https://i.ibb.co/C900PZ6/New-Balance9060-Negro.jpg"
+        },{
+            "model": "New balance 9060",
+            "color": "Beige, 39/40/41/42/43 $54.000",
+            "img_url": "https://i.ibb.co/RNpgRxd/New-Balance9060-Beige.jpg"
+        },{
+            "model": "New balance 9060",
+            "color": "Blanco, 34 al 43  $54.000",
+            "img_url": "https://i.ibb.co/MBRZ5dL/New-Balance9060-Blanco.jpg"
         }
     ]
 }

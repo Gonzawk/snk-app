@@ -98,7 +98,7 @@ const G5Page = () => {
           Explora la linea G5, y descubri pares clasicos, exclusivos y modernos al mejor precio!
         </p>
         <p className="text-lg sm:text-xl text-gray-300">
-          Todos los modelos a $110.000 hasta el 31/01/2025.
+          Todos los modelos a $130.000 hasta el 28/02/2025.
         </p>
         <p className="text-lg sm:text-xl text-gray-300">
           Consultar precios de camperas, remeras, buzos, ojotas, perfumes y talles para niños con una foto del producto y talle por WhatsApp.
