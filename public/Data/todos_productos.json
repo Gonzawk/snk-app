@@ -154,11 +154,6 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-080010/1_2.jpg"
         },
         {
-            "model": "Air Force 1 Valentine Rose",
-            "color": "Rosa",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-3112100/1_2.jpg"
-        },
-        {
             "model": "Air Force 1 Verano Piña",
             "color": "Beige Amarillo Blanco",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2005011/1_2.jpg"
@@ -454,6 +449,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-814060/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max 2.0 Grey Pink",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-2089054/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max 2021 Black",
             "color": "Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N128-2063072/1_2.jpg"
@@ -519,9 +519,29 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-392046/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Flyknit 2.0 Barcelona",
+            "color": "Negro Bordo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-394080/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black",
+            "color": "Negro Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-396081/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-397072/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 Black Gold",
             "color": "Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-398072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Pink",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-400092/1_2.jpg"
         },
         {
             "model": "Air Vapor Max Flyknit 2.0 Brow",
@@ -542,6 +562,16 @@
             "model": "Air Vapor Max Flyknit 2.0 NRD",
             "color": "Negro Rojo",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-418089/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Orca",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-419034/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Pink Blast",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-421092/1_2.jpg"
         },
         {
             "model": "Air Vapor Max Scorpions Black Violet",
@@ -814,6 +844,2602 @@
             "model": "Ojotas Lacoste White",
             "color": "Blanco",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3067016/1_2.jpg"
+        }
+    ],
+    "36arg": [
+        {
+            "model": "Adi 2000 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-724072/1_2.jpg"
+        },
+        {
+            "model": "Adi 2000 Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-3176016/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus 00 Pink X",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3165100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Blue Pink",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A154-3149050/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-1158100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Pink 3",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3134100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Rose",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-1149100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus South Park Towelie",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3150050/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum Hellow Kity",
+            "color": "Blanco Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3168037/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum The Simpsons",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-2032070/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum White Black",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N147-2048034/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum White Grey Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3184043/1_2.jpg"
+        },
+        {
+            "model": "Adi Prada Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A150-1188072/1_2.jpg"
+        },
+        {
+            "model": "Adi Response White x Bad Bunny",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3533016/1_2.jpg"
+        },
+        {
+            "model": "Adi Winflo White Blue",
+            "color": "Blanco Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N123-970018/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Shadow Pastel",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-772070/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Swoosh Pattern Tornasol",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2031016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Año del Dragón",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-1144043/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Laces White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-952016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Varsity Royal Gum",
+            "color": "Blanco Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-846018/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Margarita Peace Minusone",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-996078/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Pink Cream",
+            "color": "Beige Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1168015/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Pixel Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-704100/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Sage Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-079016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Shadow Aura",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-080010/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Valentine Rose",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-3112100/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Verano Piña",
+            "color": "Beige Amarillo Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2005011/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 White Cream Cosida Orange",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1062016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 White Pink Flower",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2001043/1_2.jpg"
+        },
+        {
+            "model": "Air Force Tela Urban Black White",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2006072/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Black White Lengueta blanca",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3117078/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Piel",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3525016/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Dark Pony Smoky",
+            "color": "Rosa Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3145101/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Guava Ice",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3148092/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Mocha brown",
+            "color": "Bordo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3146049/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Black White",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-110034/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Cierre Melocoton",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-700092/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Dior",
+            "color": "Beige Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-700013/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Milan",
+            "color": "Rosa Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-115103/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Retro Low Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-2013072/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Retro 4 Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-124010/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Retro 4 Cactus Jack",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-132050/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 London",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-164054/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 Tornasol",
+            "color": "Beige Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-168015/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 Triple Black",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-171089/1_2.jpg"
+        },
+        {
+            "model": "Air Max 2021 Triple Black",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N112-186089/1_2.jpg"
+        },
+        {
+            "model": "Air Max 270 Bahuas Yellow",
+            "color": "Blanco Amarillo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N113-1123017/1_2.jpg"
+        },
+        {
+            "model": "Air Max 720 Run Utility Light Blue",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N117-211070/1_2.jpg"
+        },
+        {
+            "model": "Air Max 720 True Colors",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N114-215070/1_2.jpg"
+        },
+        {
+            "model": "Air Max 96 White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N119-3520043/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Beige Pink",
+            "color": "Rosa Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-228101/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Black Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-229072/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Crimson Tint Blue Void",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-955100/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-234072/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Have a Nike Day Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-237070/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Persian Violet",
+            "color": "Blanco Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-240048/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Woterspoon",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-253070/1_2.jpg"
+        },
+        {
+            "model": "Air Max BW Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-3012016/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Black & White",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3508034/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Black Supreme",
+            "color": "Negro Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3509093/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3018016/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Orange",
+            "color": "Naranja",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3522071/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Purple",
+            "color": "Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3524108/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa BNC",
+            "color": "Blanco Negro Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-261035/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-589078/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-1172010/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-585072/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-800016/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Gris",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-587010/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Moov",
+            "color": "Blanco Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-263032/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-264070/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Multi2",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-265070/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa New Pink",
+            "color": "Blanco Rosa Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-801045/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Print",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-276072/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Trip Store",
+            "color": "Violeta Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-277109/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-589114/1_2.jpg"
+        },
+        {
+            "model": "Air Max Intrlk White Red",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N125-1078039/1_2.jpg"
+        },
+        {
+            "model": "Air Max Scorpion Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-2068010/1_2.jpg"
+        },
+        {
+            "model": "Air Max Zoom Black Violet",
+            "color": "Negro Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N144-729095/1_2.jpg"
+        },
+        {
+            "model": "Air SB Blue Blue",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NUrbano-1059002/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 Pink Flower",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-348043/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 WB Flower",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-349034/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Flyknit Stucco Grey",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-814060/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Grey Pink",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-2089054/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2021 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N128-2063072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-357072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Black Colors",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-358072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Fucsia",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-360100/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Gold",
+            "color": "Dorado",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-363053/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-364054/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Red",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-370089/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Sky Green",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-373104/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Speed",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-374025/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Tint Bolt",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-375043/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo Icons",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-382016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo Midnight",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-383070/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo NGR",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-384070/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo Under",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-387039/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo W",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-388025/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo White Lime",
+            "color": "Blanco Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-392046/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Barcelona",
+            "color": "Negro Bordo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-394080/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black",
+            "color": "Negro Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-396081/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-397072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Gold",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-398072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Pink",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-400092/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Brow",
+            "color": "Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-402067/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-404010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-412016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Grey Blue Pink",
+            "color": "Gris Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-414061/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 NRD",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-418089/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Orca",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-419034/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Pink Blast",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-421092/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Scorpions Black Violet",
+            "color": "Negro Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-455115/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Scorpions Just Do It White",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-1020039/1_2.jpg"
+        },
+        {
+            "model": "Air Zoom Mercurial Vapor Full White Blue",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-2086025/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Campus Ultra Pink3",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3081100/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3185010/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-466072/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Bicolor Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-1114070/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Brown",
+            "color": "Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-750067/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Green",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-953104/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-469054/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum New Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-963100/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Pink Violet",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-146100/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Pure White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-944016/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Violet",
+            "color": "Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-744108/1_2.jpg"
+        },
+        {
+            "model": "Botines Mercurial Vapor 15 TF Shadow 23",
+            "color": "Negro Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-2081073/1_2.jpg"
+        },
+        {
+            "model": "Botines Mercurial Vapor XV Air Zoom KM TF",
+            "color": "Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-866108/1_2.jpg"
+        },
+        {
+            "model": "Chanclas Adi Clog B&W",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3010078/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Cream Violet",
+            "color": "Beige Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-734012/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Low White Beige",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3201016/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Low White Hazy Copper",
+            "color": "Blanco Naranja",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3074033/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Multicolor Pastel",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-736070/1_2.jpg"
+        },
+        {
+            "model": "Forum Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-1033016/1_2.jpg"
+        },
+        {
+            "model": "Forum Triple Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-2007114/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Baby Shower Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3050100/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Cream Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3072010/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Green List",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3056104/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Mushroom",
+            "color": "Marron Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3058068/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Pink Haze",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3051100/1_2.jpg"
+        },
+        {
+            "model": "PUMA Mayze White Black",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1056034/1_2.jpg"
+        },
+        {
+            "model": "Puma SUEDE XL Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3163078/1_2.jpg"
+        },
+        {
+            "model": "SB Dunk Low Court Purple",
+            "color": "Negro Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3159095/1_2.jpg"
+        },
+        {
+            "model": "SB Dunk Low Triple PINK",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NUrbano-2021100/1_2.jpg"
+        },
+        {
+            "model": "Shox NZ Black Pink",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N151-489092/1_2.jpg"
+        },
+        {
+            "model": "Shox R4 Pink White",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N152-503043/1_2.jpg"
+        },
+        {
+            "model": "Tenis Off White Out Office Pink Grey",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1173043/1_2.jpg"
+        },
+        {
+            "model": "Tenis Off White Out Office White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1175043/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Blue White",
+            "color": "Azul Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-538003/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Flowers Pink",
+            "color": "Rosa Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-943102/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-542072/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-543016/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Clasic Potato",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NVans-1133078/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Grey Green",
+            "color": "Gris Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-1135063/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Skool Blue",
+            "color": "Negro Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-3013073/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Skool Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-3011072/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Skool Ice Cream Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-3106010/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Skool Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-1152043/1_2.jpg"
+        }
+    ],
+    "37arg": [
+        {
+            "model": "Adi 2000 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-724072/1_2.jpg"
+        },
+        {
+            "model": "Adi 2000 Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-3176016/1_2.jpg"
+        },
+        {
+            "model": "Adi 2000 White Lila",
+            "color": "Blanco Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-1113031/1_2.jpg"
+        },
+        {
+            "model": "Adi Black cerrada",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3037072/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus 00 Pink X",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3165100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Beige",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3105100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Blue Pink",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A154-3149050/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Grey Red",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-1185060/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-1158100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Pink 3",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3134100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Rose",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-1149100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus South Park Towelie",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3150050/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum Hellow Kity",
+            "color": "Blanco Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3168037/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum The Simpsons",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-2032070/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum White Black",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N147-2048034/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum White Grey Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3184043/1_2.jpg"
+        },
+        {
+            "model": "Adi Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3038072/1_2.jpg"
+        },
+        {
+            "model": "Adi Prada Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A150-1188072/1_2.jpg"
+        },
+        {
+            "model": "Adi Prada Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A150-1189016/1_2.jpg"
+        },
+        {
+            "model": "Adi Response White x Bad Bunny",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3533016/1_2.jpg"
+        },
+        {
+            "model": "Adi Winflo White Blue",
+            "color": "Blanco Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N123-970018/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Shadow Pastel",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-772070/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Swoosh Pattern Tornasol",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2031016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Have a Nk day air Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-702054/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 LV88 White Red",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1043039/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Laces White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-952016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Essential W Magenta",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1040016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Margarita",
+            "color": "Beige Amarillo Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-044011/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Pixel Cadena",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-048016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low x Tiffany & Co 1837",
+            "color": "Negro Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-11334093/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Margarita Peace Minusone",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-996078/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Multi Colors",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-073070/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Paw Print",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-30100100/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Pink Cream",
+            "color": "Beige Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1168015/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Sage Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-079016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Shadow Aura",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-080010/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Valentine Day White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-770114/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Verano Piña",
+            "color": "Beige Amarillo Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2005011/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 White Cream Cosida Orange",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1062016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 White Pink Flower",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2001043/1_2.jpg"
+        },
+        {
+            "model": "Air Force LV88 White",
+            "color": "Blanco Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-782031/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Piel",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3525016/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Dark Pony Smoky",
+            "color": "Rosa Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3145101/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Desert Berry Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-1053043/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Guava Ice",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3148092/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Mocha brown",
+            "color": "Bordo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3146049/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Dior",
+            "color": "Beige Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-700013/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Milan",
+            "color": "Rosa Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-115103/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid SE Lightbulb",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-1120070/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Legacy Blue",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-1068002/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Retro 4 Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-124010/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Retro 4 Cactus Jack",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-132050/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 Green Purple",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-1086070/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 London",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-164054/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 Triple Black",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-171089/1_2.jpg"
+        },
+        {
+            "model": "Air Max 2021 Jewul Black",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N112-179078/1_2.jpg"
+        },
+        {
+            "model": "Air Max 720 True Colors",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N114-215070/1_2.jpg"
+        },
+        {
+            "model": "Air Max 96 White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N119-3520043/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Beige Pink",
+            "color": "Rosa Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-228101/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Black Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-229072/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Black Gs",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-798072/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Black Red",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-230072/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Crimson Tint Blue Void",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-955100/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-234072/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Futura Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-2019010/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Have a Nike Day Aqua",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-235104/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Have a Nike Day Blue",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-236002/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Have a Nike Day Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-237070/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Jesucristo",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-238025/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Persian Violet",
+            "color": "Blanco Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-240048/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Woterspoon",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-253070/1_2.jpg"
+        },
+        {
+            "model": "Air Max BW Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-3012016/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Black & White",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3508034/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Black Supreme",
+            "color": "Negro Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3509093/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3018016/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Orange",
+            "color": "Naranja",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3522071/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Purple",
+            "color": "Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3524108/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa BNC",
+            "color": "Blanco Negro Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-261035/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-589078/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-1172010/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-585072/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Gris",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-587010/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Moov",
+            "color": "Blanco Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-263032/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-264070/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Multi2",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-265070/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa New Pink",
+            "color": "Blanco Rosa Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-801045/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Print",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-276072/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Trip Store",
+            "color": "Violeta Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-277109/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-589114/1_2.jpg"
+        },
+        {
+            "model": "Air Max Intrlk White Red",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N125-1078039/1_2.jpg"
+        },
+        {
+            "model": "Air Max Scorpion Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-2068010/1_2.jpg"
+        },
+        {
+            "model": "Air Max Zoom Black Violet",
+            "color": "Negro Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N144-729095/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 2021 Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N128-340072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-344078/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 Pink Flower",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-348043/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 WB Flower",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-349034/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 White Flower",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-350016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Flyknit Blue Orange",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-810002/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Flyknit Stucco Grey",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-814060/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Beige Blue",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-2095010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Full Blue",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-808002/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Full Lila",
+            "color": "Violeta Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-3078109/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Grey Pink",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-2089054/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2021 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N128-2063072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Barely Volt",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-356104/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-357072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Black Colors",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-358072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-359010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Fucsia",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-360100/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-362016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-364054/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Rose",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-371100/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Sky Green",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-373104/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo Midnight",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-383070/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo W",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-388025/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo White Colors",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-390016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo White Lime",
+            "color": "Blanco Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-392046/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Evo White Pink",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-393016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Barcelona",
+            "color": "Negro Bordo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-394080/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black",
+            "color": "Negro Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-396081/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-397072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Gold",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-398072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Orange",
+            "color": "Negro Celeste Naranja",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-399082/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Pink",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-400092/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Violet",
+            "color": "Negro Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-401095/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Brow",
+            "color": "Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-402067/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-404010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-413054/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Grey Blue Pink",
+            "color": "Gris Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-414061/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Lilac",
+            "color": "Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-416066/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 NRD",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-418089/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Pink Blast",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-421092/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Plus Black Gold",
+            "color": "Negro Dorado",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N140-433083/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Scorpions Just Do It White",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-1020039/1_2.jpg"
+        },
+        {
+            "model": "Air Zoom Mercurial Vapor Full White Blue",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-2086025/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Campus Ultra Pink3",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3081100/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3185010/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-466072/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Bicolor Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-1114070/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Blue",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-120002/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Brown",
+            "color": "Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-750067/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Green",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-953104/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Green",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-468104/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-469054/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum New Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-963100/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Sky Blue",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-471050/1_2.jpg"
+        },
+        {
+            "model": "Botines Mercurial Vapor 15 TF Shadow 23",
+            "color": "Negro Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-2081073/1_2.jpg"
+        },
+        {
+            "model": "Botines Mercurial Vapor XV Air Zoom KM TF",
+            "color": "Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-866108/1_2.jpg"
+        },
+        {
+            "model": "Court Vision Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1061078/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Cream Violet",
+            "color": "Beige Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-734012/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Low White Beige",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3201016/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Low White Hazy Copper",
+            "color": "Blanco Naranja",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3074033/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Multicolor Pastel",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-736070/1_2.jpg"
+        },
+        {
+            "model": "Forum Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-1033016/1_2.jpg"
+        },
+        {
+            "model": "Forum Triple Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-2007114/1_2.jpg"
+        },
+        {
+            "model": "Huarache Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N148-477078/1_2.jpg"
+        },
+        {
+            "model": "Jordan Retro Full Tela",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-3164016/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Green List",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3056104/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Mushroom",
+            "color": "Marron Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3058068/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Pink Haze",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3051100/1_2.jpg"
+        },
+        {
+            "model": "Ojotas Lacoste Black Green",
+            "color": "Negro Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-2096093/1_2.jpg"
+        },
+        {
+            "model": "Ojotas Lacoste Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-2097078/1_2.jpg"
+        },
+        {
+            "model": "Ojotas Lacoste White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3067016/1_2.jpg"
+        },
+        {
+            "model": "PUMA Mayze White Black",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1056034/1_2.jpg"
+        },
+        {
+            "model": "Puma SUEDE XL Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3163078/1_2.jpg"
+        },
+        {
+            "model": "Puma Suede XL Pink",
+            "color": "Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3110066/1_2.jpg"
+        },
+        {
+            "model": "SB Active Fuccia",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NUrbano-1001100/1_2.jpg"
+        },
+        {
+            "model": "SB Dunk Low Polar Blue",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NUrbano-2050025/1_2.jpg"
+        },
+        {
+            "model": "Shox NZ Black Pink",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N151-489092/1_2.jpg"
+        },
+        {
+            "model": "Shox NZ White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N151-600043/1_2.jpg"
+        },
+        {
+            "model": "Shox R4 Pink White",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N152-503043/1_2.jpg"
+        },
+        {
+            "model": "Super Star Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A154-1064016/1_2.jpg"
+        },
+        {
+            "model": "Super Star Gamuza Black",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A154-1057078/1_2.jpg"
+        },
+        {
+            "model": "Tenis Off White Out Office Pink Grey",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1173043/1_2.jpg"
+        },
+        {
+            "model": "Tenis Off White Out Office White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1175043/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Blue White",
+            "color": "Azul Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-538003/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Flowers Pink",
+            "color": "Rosa Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-943102/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-542072/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-543016/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Clasic Potato",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NVans-1133078/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Skool Blue",
+            "color": "Negro Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-3013073/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Skool Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-1152043/1_2.jpg"
+        }
+    ],
+    "38arg": [
+        {
+            "model": "Adi 2000 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-724072/1_2.jpg"
+        },
+        {
+            "model": "Adi 2000 Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-3176016/1_2.jpg"
+        },
+        {
+            "model": "Adi 2000 White Lila",
+            "color": "Blanco Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-1113031/1_2.jpg"
+        },
+        {
+            "model": "Adi Black cerrada",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3037072/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus 00 Pink X",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3165100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Blue Pink",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A154-3149050/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Grey Red",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-1185060/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-1158100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Pink 3",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3134100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus Rose",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-1149100/1_2.jpg"
+        },
+        {
+            "model": "Adi Campus South Park Towelie",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3150050/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum The Simpsons",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-2032070/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum White Black",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N147-2048034/1_2.jpg"
+        },
+        {
+            "model": "Adi Forum White Grey Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3184043/1_2.jpg"
+        },
+        {
+            "model": "Adi Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3038072/1_2.jpg"
+        },
+        {
+            "model": "Adi Prada Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A150-1188072/1_2.jpg"
+        },
+        {
+            "model": "Adi Prada Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A150-1189016/1_2.jpg"
+        },
+        {
+            "model": "Adi Response White x Bad Bunny",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3533016/1_2.jpg"
+        },
+        {
+            "model": "Air Dunk Low Pearl Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-737100/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Swoosh Pattern Tornasol",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2031016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 '07 Next Nature",
+            "color": "Blanco Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-3014031/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Fontaka",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-016070/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Have a Nk day air Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-702054/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 LV88 White Red",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1043039/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 LX Cream",
+            "color": "Beige Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-3035015/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 LX White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-700016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Laces White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-952016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Essential W Magenta",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1040016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Margarita",
+            "color": "Beige Amarillo Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-044011/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Pixel Cadena",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-048016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Rust Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-050043/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Terror Scuad",
+            "color": "Blanco Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2045032/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Low Varsity Royal Gum",
+            "color": "Blanco Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-846018/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Margarita Peace Minusone",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-996078/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Paw Print",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-30100100/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Pink Bling",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1063010/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Pink Cream",
+            "color": "Beige Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1168015/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Sage Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-079016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Shadow Aura",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-080010/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Shadow Pink",
+            "color": "Rosa Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-081102/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Valentine Day Water",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-949010/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Valentine Day White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-770114/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Valentine Rose",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-3112100/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 Verano Piña",
+            "color": "Beige Amarillo Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2005011/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 White Love You Forever",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1012016/1_2.jpg"
+        },
+        {
+            "model": "Air Force 1 White Pink Flower",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-2001043/1_2.jpg"
+        },
+        {
+            "model": "Air Force Ivori",
+            "color": "Blanco Amarillo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-097017/1_2.jpg"
+        },
+        {
+            "model": "Air Force LV88 White",
+            "color": "Blanco Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-782031/1_2.jpg"
+        },
+        {
+            "model": "Air Force UV",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-106016/1_2.jpg"
+        },
+        {
+            "model": "Air Force Valentine Day Cherry",
+            "color": "Beige Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-107015/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 HIGH WMNS Washed Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-1139043/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Black White Lengueta blanca",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3117078/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Piel",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3525016/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Dark Pony Smoky",
+            "color": "Rosa Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3145101/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Desert Berry Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-1053043/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Guava Ice",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3148092/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Mocha brown",
+            "color": "Bordo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3146049/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Low Multi-Color Sashiko",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-1182070/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Black White",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-110034/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Dior",
+            "color": "Beige Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-700013/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Milan",
+            "color": "Rosa Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-115103/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-118100/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Mid WBG",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-1050034/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan 1 Retro Low Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-2013072/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Punch Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-117100/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Retro 4 Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-124010/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Retro 4 Cactus Jack",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-132050/1_2.jpg"
+        },
+        {
+            "model": "Air Jordan Retro 4 Multicolor",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-142070/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 Aniversary Aqua",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-748050/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 London",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-164054/1_2.jpg"
+        },
+        {
+            "model": "Air Max 1 Triple Black",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N104-171089/1_2.jpg"
+        },
+        {
+            "model": "Air Max 96 White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N119-3520043/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Beige Pink",
+            "color": "Rosa Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-228101/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Black Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-229072/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Black Red",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-230072/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Crimson Tint Blue Void",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-955100/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Futura Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-2019010/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Futura Olive Green",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-1022104/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Have a Nike Day Blue",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-236002/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Have a Nike Day Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-237070/1_2.jpg"
+        },
+        {
+            "model": "Air Max 97 Persian Violet",
+            "color": "Blanco Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-240048/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Black & White",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3508034/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Black Supreme",
+            "color": "Negro Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3509093/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3018016/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Orange",
+            "color": "Naranja",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3522071/1_2.jpg"
+        },
+        {
+            "model": "Air Max DN Purple",
+            "color": "Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NAir%20Max%20DN-3524108/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa BNC",
+            "color": "Blanco Negro Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-261035/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-589078/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-1172010/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-585072/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-800016/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Moov",
+            "color": "Blanco Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-263032/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-264070/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Multi2",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-265070/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa New Pink",
+            "color": "Blanco Rosa Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-801045/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Print",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-276072/1_2.jpg"
+        },
+        {
+            "model": "Air Max Furyosa Trip Store",
+            "color": "Violeta Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-277109/1_2.jpg"
+        },
+        {
+            "model": "Air Max Intrlk White Red",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N125-1078039/1_2.jpg"
+        },
+        {
+            "model": "Air Max Scorpion 'Leap High' Año Nuevo Chino",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-2069043/1_2.jpg"
+        },
+        {
+            "model": "Air Max Scorpion Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-2068010/1_2.jpg"
+        },
+        {
+            "model": "Air Max TN Plus Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-319016/1_2.jpg"
+        },
+        {
+            "model": "Air Max TN Plus Summer Grad",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-456070/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 Pink Flower",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-348043/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 WB Flower",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-349034/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor 3.0 White Flower",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N129-350016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Flyknit Blue Orange",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-810002/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Beige Blue",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-2095010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Full Lila",
+            "color": "Violeta Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-3078109/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Grey Pink",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-2089054/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2.0 Pink Colors",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-713100/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 2021 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N128-2063072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Barely Volt",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-356104/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-357072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Black Colors",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-358072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-362016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-364054/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Rose",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-371100/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max 360 Sky Green",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N137-373104/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Barcelona",
+            "color": "Negro Bordo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-394080/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black",
+            "color": "Negro Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-396081/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-397072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Gold",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-398072/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black Pink",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-400092/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Brow",
+            "color": "Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-402067/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Cream",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-404010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Grey Blue Pink",
+            "color": "Gris Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-414061/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Lilac",
+            "color": "Lila",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-416066/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Pink Blast",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-421092/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Scorpions Black Violet",
+            "color": "Negro Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-455115/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Scorpions Just Do It White",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-1020039/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Scorpions Violet Orange",
+            "color": "Violeta Naranja",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-1024110/1_2.jpg"
+        },
+        {
+            "model": "Air Zoom Mercurial Vapor 15 Violet",
+            "color": "Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-1017108/1_2.jpg"
+        },
+        {
+            "model": "Air Zoom Mercurial Vapor Full White Blue",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-2086025/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Campus Ultra Pink3",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3081100/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-466072/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Bicolor Multi",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-1114070/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Brown",
+            "color": "Marron",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-750067/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Campus Green",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-953104/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Grey",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-469054/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum New Pink",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-963100/1_2.jpg"
+        },
+        {
+            "model": "Bad Bunny Forum Sky Blue",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-471050/1_2.jpg"
+        },
+        {
+            "model": "Botines Mercurial Vapor 14 Elite Volt Blue Void",
+            "color": "Negro Azul Amarillo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-1104074/1_2.jpg"
+        },
+        {
+            "model": "Botines Mercurial Vapor 15 TF Shadow 23",
+            "color": "Negro Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-2081073/1_2.jpg"
+        },
+        {
+            "model": "Botines Mercurial Vapor XV Air Zoom KM TF",
+            "color": "Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-866108/1_2.jpg"
+        },
+        {
+            "model": "Botines Phantom Gx Elite Fg Yellow Grey",
+            "color": "Amarillo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-1102001/1_2.jpg"
+        },
+        {
+            "model": "Botita Post Up Cream Pink",
+            "color": "Beige Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-726015/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Cream Violet",
+            "color": "Beige Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-734012/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Low White Beige",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3201016/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Low White Hazy Copper",
+            "color": "Blanco Naranja",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-3074033/1_2.jpg"
+        },
+        {
+            "model": "Forum 84 Multicolor Pastel",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-736070/1_2.jpg"
+        },
+        {
+            "model": "Forum Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-1033016/1_2.jpg"
+        },
+        {
+            "model": "Forum Triple Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A147-2007114/1_2.jpg"
+        },
+        {
+            "model": "Jordan Retro Full Tela",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-3164016/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Cream Beige",
+            "color": "Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3072010/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Green List",
+            "color": "Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3056104/1_2.jpg"
+        },
+        {
+            "model": "NB 9060 Mushroom",
+            "color": "Marron Beige",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3058068/1_2.jpg"
+        },
+        {
+            "model": "Ojotas Lacoste Black Green",
+            "color": "Negro Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-2096093/1_2.jpg"
+        },
+        {
+            "model": "PUMA Mayze White Violet",
+            "color": "Blanco Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3079048/1_2.jpg"
+        },
+        {
+            "model": "Puma SUEDE XL Black White",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-3163078/1_2.jpg"
+        },
+        {
+            "model": "SB Dunk Low Court Purple",
+            "color": "Negro Violeta",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-3159095/1_2.jpg"
+        },
+        {
+            "model": "SB Dunk Low Multi Pastel",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NUrbano-2002070/1_2.jpg"
+        },
+        {
+            "model": "SB Dunk Low Triple PINK",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/NUrbano-2021100/1_2.jpg"
+        },
+        {
+            "model": "Shox NZ Black Pink",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N151-489092/1_2.jpg"
+        },
+        {
+            "model": "Shox NZ White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N151-600043/1_2.jpg"
+        },
+        {
+            "model": "Shox R4 Pink White",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N152-503043/1_2.jpg"
+        },
+        {
+            "model": "Shox TL1 Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N153-517072/1_2.jpg"
+        },
+        {
+            "model": "Shox TL1 White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N153-520016/1_2.jpg"
+        },
+        {
+            "model": "Super Star Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A154-1064016/1_2.jpg"
+        },
+        {
+            "model": "Super Star Tornasol",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/A154-524043/1_2.jpg"
+        },
+        {
+            "model": "Tenis Off White Out Office Pink Grey",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1173043/1_2.jpg"
+        },
+        {
+            "model": "Tenis Off White Out Office White Pink",
+            "color": "Blanco Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1175043/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Black Red",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-712089/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Blue White",
+            "color": "Azul Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-538003/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Flowers Pink",
+            "color": "Rosa Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-943102/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Full Black",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-542072/1_2.jpg"
+        },
+        {
+            "model": "Uptempo Full White",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-543016/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Grey Green",
+            "color": "Gris Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-1135063/1_2.jpg"
+        },
+        {
+            "model": "Vans Knu Skool Clasic",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DVans-3011072/1_2.jpg"
         }
     ],
     "39arg": [
@@ -2293,11 +4919,6 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-241072/1_2.jpg"
         },
         {
-            "model": "Air Max 97 Reflective Silver",
-            "color": "Negro Blanco",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-1041078/1_2.jpg"
-        },
-        {
             "model": "Air Max 97 Satan",
             "color": "Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N120-243072/1_2.jpg"
@@ -2593,6 +5214,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3510054/1_2.jpg"
         },
         {
+            "model": "Air Max Plus TN Grey XD Red",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3559060/1_2.jpg"
+        },
+        {
             "model": "Air Max Plus TN Max Black",
             "color": "Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3007072/1_2.jpg"
@@ -2601,6 +5227,11 @@
             "model": "Air Max Plus TN Trueno",
             "color": "Celeste",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3512050/1_2.jpg"
+        },
+        {
+            "model": "Air Max Plus TN White Blue II",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3558025/1_2.jpg"
         },
         {
             "model": "Air Max Scorpion Cream",
@@ -2738,6 +5369,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-3078109/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max 2.0 Grey Pink",
+            "color": "Gris",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-2089054/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max 2.0 Pink Colors",
             "color": "Rosa",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-713100/1_2.jpg"
@@ -2793,6 +5429,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-392046/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Fliknit 2.0 Bicolor",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-716072/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 Barcelona",
             "color": "Negro Bordo",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-394080/1_2.jpg"
@@ -2801,6 +5442,11 @@
             "model": "Air Vapor Max Flyknit 2.0 Beige",
             "color": "Beige",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-395010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Black",
+            "color": "Negro Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-396081/1_2.jpg"
         },
         {
             "model": "Air Vapor Max Flyknit 2.0 Black Clasic",
@@ -2813,9 +5459,19 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-398072/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Flyknit 2.0 Black Pink",
+            "color": "Negro Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-400092/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 Cream",
             "color": "Beige",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-404010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Dark Stucco",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-406078/1_2.jpg"
         },
         {
             "model": "Air Vapor Max Flyknit 2.0 Dark Wolf cap negra",
@@ -2843,6 +5499,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-405054/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Flyknit 2.0 Orca",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-419034/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 Pink Blast",
             "color": "Negro Rosa",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-421092/1_2.jpg"
@@ -2851,6 +5512,11 @@
             "model": "Air Vapor Max Flyknit 2.0 Sky Blue",
             "color": "Celeste",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-422050/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Sky Pink",
+            "color": "Celeste Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-424052/1_2.jpg"
         },
         {
             "model": "Air Vapor Max Flyknit 2.0 White Black",
@@ -2896,6 +5562,11 @@
             "model": "Air Vapor Max Scorpions Violet Orange",
             "color": "Violeta Naranja",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-1024110/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Zafari Zebra",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-458034/1_2.jpg"
         },
         {
             "model": "Air Zoom Excel Black White Red",
@@ -3051,6 +5722,11 @@
             "model": "Botines Phantom React Black",
             "color": "Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-3142072/1_2.jpg"
+        },
+        {
+            "model": "Botines Tiempo Legend 8 Academy Black Red",
+            "color": "Negro Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-3141089/1_2.jpg"
         },
         {
             "model": "Botita Adi Black White",
@@ -3358,6 +6034,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N151-600043/1_2.jpg"
         },
         {
+            "model": "Shox NZ White Red",
+            "color": "Blanco Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N151-495039/1_2.jpg"
+        },
+        {
             "model": "Shox Nz Grey",
             "color": "Gris",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N151-492054/1_2.jpg"
@@ -3657,12 +6338,12 @@
         {
             "model": "Adi Campus 00 Cream White",
             "color": "Beige",
-            "img_url": "https://apprioimport.com/assets/fotostock-c8d421d0.jpg"
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3193010/1_2.jpg"
         },
         {
             "model": "Adi Campus 00 Cream White",
             "color": "Beige",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/AUrbano-3193010/1_2.jpg"
+            "img_url": "https://apprioimport.com/assets/fotostock-c8d421d0.jpg"
         },
         {
             "model": "Adi Campus Beige Black",
@@ -5180,9 +7861,19 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3510054/1_2.jpg"
         },
         {
+            "model": "Air Max Plus TN Grey XD Red",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3559060/1_2.jpg"
+        },
+        {
             "model": "Air Max Plus TN Trueno",
             "color": "Celeste",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3512050/1_2.jpg"
+        },
+        {
+            "model": "Air Max Plus TN White Blue II",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3558025/1_2.jpg"
         },
         {
             "model": "Air Max Scorpion Green",
@@ -5360,6 +8051,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N122-392046/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Fliknit 2.0 Bicolor",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-716072/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 Barcelona",
             "color": "Negro Bordo",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-394080/1_2.jpg"
@@ -5395,9 +8091,19 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-405054/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Flyknit 2.0 Orca",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-419034/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 Pink Blast",
             "color": "Negro Rosa",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-421092/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Sky Pink",
+            "color": "Celeste Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-424052/1_2.jpg"
         },
         {
             "model": "Air Vapor Max Flyknit 2.0 White Black",
@@ -5453,6 +8159,11 @@
             "model": "Air Vapor Max Scorpions Just Do It White",
             "color": "Blanco Rojo",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-1020039/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Zafari Zebra",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-458034/1_2.jpg"
         },
         {
             "model": "Air Zoom Mercurial Vapor 15 Elite Green",
@@ -5543,11 +8254,6 @@
             "model": "Bad Bunny Full Red",
             "color": "Rojo",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/A145-3189096/1_2.jpg"
-        },
-        {
-            "model": "Botines Air Zoom Mercurial Vapor 15 Elite Turf",
-            "color": "Negro",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-867072/1_2.jpg"
         },
         {
             "model": "Botines Mercurial Vapor 14 Pro Tf Orange",
@@ -6008,21 +8714,6 @@
             "model": "Yeezy Boost 350 V2 Zebra",
             "color": "Blanco Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/A158-568034/1_2.jpg"
-        },
-        {
-            "model": "Yeezy Boost 350 V3",
-            "color": "Marron",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/A158-569067/1_2.jpg"
-        },
-        {
-            "model": "Yeezy Boost 500 Black",
-            "color": "Negro",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/A158-899072/1_2.jpg"
-        },
-        {
-            "model": "Yeezy Boost 700 V3 Black",
-            "color": "Negro",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/A158-602072/1_2.jpg"
         }
     ],
     "41arg": [
@@ -7572,9 +10263,19 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3510054/1_2.jpg"
         },
         {
+            "model": "Air Max Plus TN Grey XD Red",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3559060/1_2.jpg"
+        },
+        {
             "model": "Air Max Plus TN Trueno",
             "color": "Celeste",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3512050/1_2.jpg"
+        },
+        {
+            "model": "Air Max Plus TN White Blue II",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3558025/1_2.jpg"
         },
         {
             "model": "Air Max Scorpion Cream",
@@ -7792,6 +10493,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-419034/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Flyknit 2.0 Sky Pink",
+            "color": "Celeste Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-424052/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 White Black",
             "color": "Blanco Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-425034/1_2.jpg"
@@ -7840,6 +10546,11 @@
             "model": "Air Vapor Max Scorpions Just Do It White",
             "color": "Blanco Rojo",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-1020039/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Zafari Zebra",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-458034/1_2.jpg"
         },
         {
             "model": "Air Zoom Mercurial Superfly Dorado Mbappe",
@@ -8000,11 +10711,6 @@
             "model": "Botines Phantom GT2 Elite Orange",
             "color": "Blanco Naranja",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-2087033/1_2.jpg"
-        },
-        {
-            "model": "Botines Phantom React Black",
-            "color": "Negro",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N146-3142072/1_2.jpg"
         },
         {
             "model": "Botines Speedportal Gold",
@@ -8487,11 +11193,6 @@
             "model": "Adi Swift White Blue",
             "color": "Blanco Azul",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/A161-965018/1_2.jpg"
-        },
-        {
-            "model": "Air Dunk Jumbo Full Black",
-            "color": "Negro",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/NUrbano-2009072/1_2.jpg"
         },
         {
             "model": "Air Force 1 07 Low Grain",
@@ -9019,11 +11720,6 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-2011093/1_2.jpg"
         },
         {
-            "model": "Air Jordan 1 Retro Low OG 'Voodoo'",
-            "color": "Marron",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-2010067/1_2.jpg"
-        },
-        {
             "model": "Air Jordan Flight BW Green",
             "color": "Blanco Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N101-977034/1_2.jpg"
@@ -9072,11 +11768,6 @@
             "model": "Air Jordan Retro 4 Black Gold",
             "color": "Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-127072/1_2.jpg"
-        },
-        {
-            "model": "Air Jordan Retro 4 Black Red",
-            "color": "Negro Rojo",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N102-129089/1_2.jpg"
         },
         {
             "model": "Air Jordan Retro 4 Cactus Jack",
@@ -9364,11 +12055,6 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-584089/1_2.jpg"
         },
         {
-            "model": "Air Max Furyosa Full White",
-            "color": "Blanco",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-800016/1_2.jpg"
-        },
-        {
             "model": "Air Max Furyosa Multi",
             "color": "Multicolor",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N124-264070/1_2.jpg"
@@ -9474,9 +12160,19 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3510054/1_2.jpg"
         },
         {
+            "model": "Air Max Plus TN Grey XD Red",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3559060/1_2.jpg"
+        },
+        {
             "model": "Air Max Plus TN Trueno",
             "color": "Celeste",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3512050/1_2.jpg"
+        },
+        {
+            "model": "Air Max Plus TN White Blue II",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3558025/1_2.jpg"
         },
         {
             "model": "Air Max Scorpion Green",
@@ -9619,9 +12315,19 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-397072/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Flyknit 2.0 Black Gold",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-398072/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 Cream",
             "color": "Beige",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-404010/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Dark Stucco",
+            "color": "Negro Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-406078/1_2.jpg"
         },
         {
             "model": "Air Vapor Max Flyknit 2.0 Dark Wolf cap negra",
@@ -9702,6 +12408,11 @@
             "model": "Air Vapor Max Scorpions Pure White",
             "color": "Blanco",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-942016/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Zafari Zebra",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-458034/1_2.jpg"
         },
         {
             "model": "Air Zoom Black Volt",
@@ -10551,11 +13262,6 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-087072/1_2.jpg"
         },
         {
-            "model": "Air Force 1 Swoosh Multicolor",
-            "color": "Multicolor",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-1087070/1_2.jpg"
-        },
-        {
             "model": "Air Force 1 Swoosh White Cierre",
             "color": "Blanco",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N100-088016/1_2.jpg"
@@ -11206,6 +13912,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3512050/1_2.jpg"
         },
         {
+            "model": "Air Max Plus TN White Blue II",
+            "color": "Blanco Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3558025/1_2.jpg"
+        },
+        {
             "model": "Air Max Scorpion Green",
             "color": "Verde Claro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N141-2064105/1_2.jpg"
@@ -11546,6 +14257,11 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-418089/1_2.jpg"
         },
         {
+            "model": "Air Vapor Max Flyknit 2.0 Orca",
+            "color": "Blanco Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-419034/1_2.jpg"
+        },
+        {
             "model": "Air Vapor Max Flyknit 2.0 Pink Blast",
             "color": "Negro Rosa",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-421092/1_2.jpg"
@@ -11559,6 +14275,11 @@
             "model": "Air Vapor Max Flyknit 2.0 Sky Grey",
             "color": "Gris",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-423054/1_2.jpg"
+        },
+        {
+            "model": "Air Vapor Max Flyknit 2.0 Sky Pink",
+            "color": "Celeste Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N139-424052/1_2.jpg"
         },
         {
             "model": "Air Vapor Max Flyknit 2.0 White Black",
@@ -11936,11 +14657,6 @@
             "img_url": "https://apprioimport.com/uploads/products/Exportado/A156-531041/1_2.jpg"
         },
         {
-            "model": "Uptempo Full Black",
-            "color": "Negro",
-            "img_url": "https://apprioimport.com/uploads/products/Exportado/N157-542072/1_2.jpg"
-        },
-        {
             "model": "Vans Knu Clasic Potato",
             "color": "Negro Blanco",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/NVans-1133078/1_2.jpg"
@@ -12091,6 +14807,11 @@
             "model": "Air Max BW Full White",
             "color": "Blanco",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/N123-913016/1_2.jpg"
+        },
+        {
+            "model": "Air Max Plus TN Grey XD Red",
+            "color": "Gris Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/N127-3559060/1_2.jpg"
         },
         {
             "model": "Air Max Scorpion Cream",
@@ -12441,6 +15162,220 @@
             "model": "Campera The North Face Black",
             "color": "Negro",
             "img_url": "https://apprioimport.com/uploads/products/Exportado/DUrbano-1126072/1_2.jpg"
+        }
+    ],
+    "Hogar": [
+        {
+            "model": "Anafe Electrico Eiffel 2H Acero Inoxidable",
+            "color": "Negro Plateado",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3084088/1_2.jpg"
+        },
+        {
+            "model": "Balanza digital Mondial",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3085070/1_2.jpg"
+        },
+        {
+            "model": "Balde con Mopa KLD centrifuga con pedal",
+            "color": "Gris Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3086063/1_2.jpg"
+        },
+        {
+            "model": "Balde con Mopa x 4 Max Clean",
+            "color": "Gris Verde",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3087063/1_2.jpg"
+        },
+        {
+            "model": "Batidora de Mano Plásctica con Accesorio Amasador",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3088016/1_2.jpg"
+        },
+        {
+            "model": "Filtro de Agua domiciliario Dvigi en 3 colores",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3083070/1_2.jpg"
+        },
+        {
+            "model": "Jarra Dvigi Filtradora de Agua Varios Colores",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3089070/1_2.jpg"
+        },
+        {
+            "model": "Jarro Termico Carol Varios Colores",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3090070/1_2.jpg"
+        },
+        {
+            "model": "Licuadora Mondial 2 Jarras",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3092072/1_2.jpg"
+        },
+        {
+            "model": "Plancha a Vapor Tower",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3093070/1_2.jpg"
+        },
+        {
+            "model": "Rayador multicorte Carol",
+            "color": "Blanco",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3097016/1_2.jpg"
+        },
+        {
+            "model": "Ventilador 10\" Tower 3 En 1 Aspa Metal Negro",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3096072/1_2.jpg"
+        },
+        {
+            "model": "Ventilador Turbo Magiclick 90w 3 velocidades",
+            "color": "Negro",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DHogar-3094072/1_2.jpg"
+        }
+    ],
+    "Juguetes": [
+        {
+            "model": "Aprendiendo a Multiplicar 36 Fichas +6",
+            "color": "Amarillo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3025001/1_2.jpg"
+        },
+        {
+            "model": "Arco y Flecha x 3 flechas Azul o Rosa",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3040070/1_2.jpg"
+        },
+        {
+            "model": "Basket en el Barco para bebe 12meses",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3061002/1_2.jpg"
+        },
+        {
+            "model": "Bebe para la ducha Diferentes Diseños",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3062100/1_2.jpg"
+        },
+        {
+            "model": "Burbujero con luz Spiderman",
+            "color": "Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3041096/1_2.jpg"
+        },
+        {
+            "model": "Cakepop Squishy x 3",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3028100/1_2.jpg"
+        },
+        {
+            "model": "Carpa de Nena Adas +3",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3068100/1_2.jpg"
+        },
+        {
+            "model": "Cocina de Minnie con Luz y Sonido",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3042100/1_2.jpg"
+        },
+        {
+            "model": "Juego de Agua Tiburon capturador de Peces",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3043050/1_2.jpg"
+        },
+        {
+            "model": "Labial con Muñeca interna Varios colores",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3029070/1_2.jpg"
+        },
+        {
+            "model": "Lumilus con Luz y Sonido Varios Diseños y Colores",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3030070/1_2.jpg"
+        },
+        {
+            "model": "Mega Dardos Magnus",
+            "color": "Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3063096/1_2.jpg"
+        },
+        {
+            "model": "Mesa con Juego de Mate Petit Gourmet",
+            "color": "Rojo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3064096/1_2.jpg"
+        },
+        {
+            "model": "Mi Little Pony cola con movimieneto para el agua",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3065100/1_2.jpg"
+        },
+        {
+            "model": "Microfono Song cable Flexible dif colores",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3039100/1_2.jpg"
+        },
+        {
+            "model": "Mini Racing Car control remoto Varios Colores",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3066070/1_2.jpg"
+        },
+        {
+            "model": "Monsters 500 Pista 2,4 metros + 1 auto",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3044002/1_2.jpg"
+        },
+        {
+            "model": "Muñeca Bouncin Babies Little Shine Varios Diseños",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3069100/1_2.jpg"
+        },
+        {
+            "model": "My Little Pony 2 Pony + Accesorios Varios Diseños",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3032070/1_2.jpg"
+        },
+        {
+            "model": "My Little Pony Fashion Accesorios Varios Colores",
+            "color": "Multicolor",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3033070/1_2.jpg"
+        },
+        {
+            "model": "My Little Pony the Movie Water Varios Diseños",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3021100/1_2.jpg"
+        },
+        {
+            "model": "Paw Patrol Centro De Entrenamiento Incluye A Chase",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3070002/1_2.jpg"
+        },
+        {
+            "model": "Proyector Musical +12m",
+            "color": "Amarillo",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3071001/1_2.jpg"
+        },
+        {
+            "model": "Set de Microscopio",
+            "color": "Celeste",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3045050/1_2.jpg"
+        },
+        {
+            "model": "Shopkins Brithday Cake Surprise",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3031100/1_2.jpg"
+        },
+        {
+            "model": "Shopkins Fashion Mall Collection Limited Edition",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3026100/1_2.jpg"
+        },
+        {
+            "model": "Shopkins Shoppies + Brazalete",
+            "color": "Rosa",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3027100/1_2.jpg"
+        },
+        {
+            "model": "Transformers x 4 unid",
+            "color": "Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3046002/1_2.jpg"
+        },
+        {
+            "model": "Washout Juego de Agua +6",
+            "color": "Blanco Azul",
+            "img_url": "https://apprioimport.com/uploads/products/Exportado/DJuegues-3047018/1_2.jpg"
         }
     ],
     "Perfumes": [
