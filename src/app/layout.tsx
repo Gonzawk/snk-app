@@ -1,19 +1,14 @@
-// src/app/layout.tsx
-
 import type { Metadata } from "next";
-import { Inter, Roboto } from "next/font/google"; // Importando fuentes válidas de Google
+import { Inter, Roboto } from "next/font/google";
 import "./globals.css";
+import { CartProvider } from "../context/CartContext";
+import ModalCart from "../components/ModalCart";
 
-// Definiendo las fuentes
-const inter = Inter({
-  variable: "--font-inter",  // Definimos una variable CSS para la fuente Inter
-  subsets: ["latin"],        // Idioma de la fuente
-});
-
+const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
 const roboto = Roboto({
-  variable: "--font-roboto",  // Definimos otra variable para la fuente Roboto
+  variable: "--font-roboto",
   subsets: ["latin"],
-  weight: ["400", "700"],     // Puedes agregar más pesos si es necesario
+  weight: ["400", "700"],
 });
 
 export const metadata: Metadata = {
@@ -23,13 +18,16 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
     <html lang="en">
       <body className={`${inter.variable} ${roboto.variable} antialiased`}>
-        {children}
+        <CartProvider>
+          {children}
+          <ModalCart />
+        </CartProvider>
       </body>
     </html>
   );

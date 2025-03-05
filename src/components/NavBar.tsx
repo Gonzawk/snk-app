@@ -7,16 +7,16 @@ const NavBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false); // Estado para abrir y cerrar el menú
 
   return (
-    <nav className="fixed top-0 left-0 w-full bg-gray-800 bg-opacity-80 z-50">
-      <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-        <h1 className="text-xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">
+    <nav className="fixed top-0 left-0 w-full bg-white bg-opacity-90 shadow border-b border-black z-50">
+      <div className="max-w-7xl mx-auto px-6 py-4 flex justify-center items-center relative">
+        <h1 className="text-xl font-extrabold text-black text-center">
           Sneakers Shop
         </h1>
 
         {/* Icono de menú en dispositivos pequeños */}
         <button
-          className="lg:hidden text-white"
-          onClick={() => setIsMenuOpen(!isMenuOpen)} // Cambia el estado de apertura del menú
+          className="absolute right-6 lg:hidden text-black"
+          onClick={() => setIsMenuOpen(!isMenuOpen)}
         >
           {!isMenuOpen ? (
             <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -28,15 +28,18 @@ const NavBar = () => {
             </svg>
           )}
         </button>
-
-        {/* Menú de navegación */}
-        <div
-          className={`lg:flex lg:space-x-8 text-lg text-gray-300 ${isMenuOpen ? 'flex flex-col w-full space-y-4 absolute top-16 left-0 bg-gray-800 p-4' : 'hidden'} lg:block`}
-        >
-          <Link href="#inicio" className="hover:text-white transition">Inicio</Link>
-          <Link href="#categorias" className="hover:text-white transition">Categorías</Link>
-          <Link href="#nosotros" className="hover:text-white transition">Contáctanos</Link>
-        </div>
+      </div>
+      {/* Menú de navegación */}
+      <div
+        className={`${
+          isMenuOpen
+            ? 'flex flex-col items-center space-y-4 bg-white p-4 border-t border-black'
+            : 'hidden'
+        } lg:flex lg:space-x-8 lg:justify-center text-lg text-black font-bold`}
+      >
+        <Link href="#inicio" className="hover:text-gray-600 transition text-center">Inicio</Link>
+        <Link href="/catalogo" className="hover:text-gray-600 transition text-center">Catalogo</Link>
+        <Link href="#nosotros" className="hover:text-gray-600 transition text-center">Contáctanos</Link>
       </div>
     </nav>
   );
