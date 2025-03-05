@@ -90,10 +90,10 @@ const G5Page = () => {
       <NavBarCatalogo />
 
       <header className="flex flex-col items-center justify-center text-center px-6 py-10 space-y-6">
-        <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide text-white">
+       {/*  <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide text-white">
            G5
-        </h1>
-        <p className="text-lg sm:text-xl text-gray-300">
+        </h1> */}
+        <p className="text-lg sm:text-xl text-gray-300 mt-4">
           Explora la línea G5, y descubrí pares clásicos, exclusivos y modernos al mejor precio!
         </p>
         <p className="text-lg sm:text-xl text-gray-300">

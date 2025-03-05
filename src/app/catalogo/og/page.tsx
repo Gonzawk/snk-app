@@ -86,10 +86,10 @@ const OGPage = () => {
       <NavBarCatalogo />
 
       <header className="flex flex-col items-center justify-center text-center px-6 py-10 space-y-6">
-        <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide text-white">
+        {/* <h1 className="text-5xl sm:text-6xl font-extrabold tracking-wide text-white">
            Zapatillas OG
-        </h1>
-        <p className="text-lg sm:text-xl text-gray-300">
+        </h1> */}
+        <p className="text-lg sm:text-xl mt-4 text-gray-300">
           Sneakers 100% originales!
         </p>
         <p className="text-lg sm:text-xl text-gray-300 font-bold text-yellow-400">
